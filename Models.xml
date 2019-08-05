@@ -1,0 +1,2686 @@
+<?xml version="1.0" ?>
+<Models>
+	<Model Category="Автомобили" Make="AC" Model="378 GT Zagato"/>
+	<Model Category="Автомобили" Make="AC" Model="Ace"/>
+	<Model Category="Автомобили" Make="AC" Model="Aceca"/>
+	<Model Category="Автомобили" Make="AC" Model="Cobra"/>
+	<Model Category="Автомобили" Make="AC" Model="Другая"/>
+	<Model Category="Автомобили" Make="Acura" Model="CL"/>
+	<Model Category="Автомобили" Make="Acura" Model="CSX"/>
+	<Model Category="Автомобили" Make="Acura" Model="EL"/>
+	<Model Category="Автомобили" Make="Acura" Model="ILX"/>
+	<Model Category="Автомобили" Make="Acura" Model="Integra"/>
+	<Model Category="Автомобили" Make="Acura" Model="MDX"/>
+	<Model Category="Автомобили" Make="Acura" Model="NSX"/>
+	<Model Category="Автомобили" Make="Acura" Model="RDX"/>
+	<Model Category="Автомобили" Make="Acura" Model="RL"/>
+	<Model Category="Автомобили" Make="Acura" Model="RSX"/>
+	<Model Category="Автомобили" Make="Acura" Model="SLX"/>
+	<Model Category="Автомобили" Make="Acura" Model="TL"/>
+	<Model Category="Автомобили" Make="Acura" Model="TLX"/>
+	<Model Category="Автомобили" Make="Acura" Model="TSX"/>
+	<Model Category="Автомобили" Make="Acura" Model="ZDX"/>
+	<Model Category="Автомобили" Make="Acura" Model="Другая"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="145"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="146"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="147"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="155"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="156"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="159"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="164"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="166"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="33"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="4C"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="75"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="90"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="Arna"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="Brera"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="Giulia"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="Giulietta"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="GT"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="GTV"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="MiTo"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="RZ"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="Spider"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="Stelvio"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="SZ"/>
+	<Model Category="Автомобили" Make="Alfa Romeo" Model="Другая"/>
+	<Model Category="Автомобили" Make="Alpina" Model="B10"/>
+	<Model Category="Автомобили" Make="Alpina" Model="B11"/>
+	<Model Category="Автомобили" Make="Alpina" Model="B12"/>
+	<Model Category="Автомобили" Make="Alpina" Model="B3"/>
+	<Model Category="Автомобили" Make="Alpina" Model="B5"/>
+	<Model Category="Автомобили" Make="Alpina" Model="B6"/>
+	<Model Category="Автомобили" Make="Alpina" Model="B7"/>
+	<Model Category="Автомобили" Make="Alpina" Model="B8"/>
+	<Model Category="Автомобили" Make="Alpina" Model="B9"/>
+	<Model Category="Автомобили" Make="Alpina" Model="C1"/>
+	<Model Category="Автомобили" Make="Alpina" Model="C2"/>
+	<Model Category="Автомобили" Make="Alpina" Model="D10"/>
+	<Model Category="Автомобили" Make="Alpina" Model="D3"/>
+	<Model Category="Автомобили" Make="Alpina" Model="D5"/>
+	<Model Category="Автомобили" Make="Alpina" Model="XD3"/>
+	<Model Category="Автомобили" Make="Alpina" Model="Другая"/>
+	<Model Category="Автомобили" Make="Aro" Model="10"/>
+	<Model Category="Автомобили" Make="Aro" Model="24"/>
+	<Model Category="Автомобили" Make="Aro" Model="Spartana"/>
+	<Model Category="Автомобили" Make="Aro" Model="Другая"/>
+	<Model Category="Автомобили" Make="Asia" Model="Hi-topic"/>
+	<Model Category="Автомобили" Make="Asia" Model="Retona"/>
+	<Model Category="Автомобили" Make="Asia" Model="Rocsta"/>
+	<Model Category="Автомобили" Make="Asia" Model="Другая"/>
+	<Model Category="Автомобили" Make="Aston Martin" Model="Cygnet"/>
+	<Model Category="Автомобили" Make="Aston Martin" Model="DB11"/>
+	<Model Category="Автомобили" Make="Aston Martin" Model="DB7"/>
+	<Model Category="Автомобили" Make="Aston Martin" Model="DB9"/>
+	<Model Category="Автомобили" Make="Aston Martin" Model="DBS"/>
+	<Model Category="Автомобили" Make="Aston Martin" Model="Lagonda"/>
+	<Model Category="Автомобили" Make="Aston Martin" Model="One-77"/>
+	<Model Category="Автомобили" Make="Aston Martin" Model="Rapide"/>
+	<Model Category="Автомобили" Make="Aston Martin" Model="Rapide S"/>
+	<Model Category="Автомобили" Make="Aston Martin" Model="V12 Vantage"/>
+	<Model Category="Автомобили" Make="Aston Martin" Model="V12 Vantage S"/>
+	<Model Category="Автомобили" Make="Aston Martin" Model="V8 Vantage"/>
+	<Model Category="Автомобили" Make="Aston Martin" Model="V8 Vantage S"/>
+	<Model Category="Автомобили" Make="Aston Martin" Model="Vanquish"/>
+	<Model Category="Автомобили" Make="Aston Martin" Model="Virage"/>
+	<Model Category="Автомобили" Make="Aston Martin" Model="Другая"/>
+	<Model Category="Автомобили" Make="Audi" Model="100"/>
+	<Model Category="Автомобили" Make="Audi" Model="200"/>
+	<Model Category="Автомобили" Make="Audi" Model="80"/>
+	<Model Category="Автомобили" Make="Audi" Model="90"/>
+	<Model Category="Автомобили" Make="Audi" Model="A1"/>
+	<Model Category="Автомобили" Make="Audi" Model="A2"/>
+	<Model Category="Автомобили" Make="Audi" Model="A3"/>
+	<Model Category="Автомобили" Make="Audi" Model="A4"/>
+	<Model Category="Автомобили" Make="Audi" Model="A4 Allroad Quattro"/>
+	<Model Category="Автомобили" Make="Audi" Model="A5"/>
+	<Model Category="Автомобили" Make="Audi" Model="A6"/>
+	<Model Category="Автомобили" Make="Audi" Model="A6 Allroad Quattro"/>
+	<Model Category="Автомобили" Make="Audi" Model="A7"/>
+	<Model Category="Автомобили" Make="Audi" Model="A8"/>
+	<Model Category="Автомобили" Make="Audi" Model="Cabriolet"/>
+	<Model Category="Автомобили" Make="Audi" Model="Coupe"/>
+	<Model Category="Автомобили" Make="Audi" Model="Q2"/>
+	<Model Category="Автомобили" Make="Audi" Model="Q3"/>
+	<Model Category="Автомобили" Make="Audi" Model="Q5"/>
+	<Model Category="Автомобили" Make="Audi" Model="Q7"/>
+	<Model Category="Автомобили" Make="Audi" Model="Q8"/>
+	<Model Category="Автомобили" Make="Audi" Model="Quattro"/>
+	<Model Category="Автомобили" Make="Audi" Model="R8"/>
+	<Model Category="Автомобили" Make="Audi" Model="RS Q3"/>
+	<Model Category="Автомобили" Make="Audi" Model="RS2"/>
+	<Model Category="Автомобили" Make="Audi" Model="RS3"/>
+	<Model Category="Автомобили" Make="Audi" Model="RS4"/>
+	<Model Category="Автомобили" Make="Audi" Model="RS5"/>
+	<Model Category="Автомобили" Make="Audi" Model="RS6"/>
+	<Model Category="Автомобили" Make="Audi" Model="RS7"/>
+	<Model Category="Автомобили" Make="Audi" Model="S1"/>
+	<Model Category="Автомобили" Make="Audi" Model="S2"/>
+	<Model Category="Автомобили" Make="Audi" Model="S3"/>
+	<Model Category="Автомобили" Make="Audi" Model="S4"/>
+	<Model Category="Автомобили" Make="Audi" Model="S5"/>
+	<Model Category="Автомобили" Make="Audi" Model="S6"/>
+	<Model Category="Автомобили" Make="Audi" Model="S7"/>
+	<Model Category="Автомобили" Make="Audi" Model="S8"/>
+	<Model Category="Автомобили" Make="Audi" Model="SQ5"/>
+	<Model Category="Автомобили" Make="Audi" Model="SQ7"/>
+	<Model Category="Автомобили" Make="Audi" Model="TT"/>
+	<Model Category="Автомобили" Make="Audi" Model="TT RS"/>
+	<Model Category="Автомобили" Make="Audi" Model="TTS"/>
+	<Model Category="Автомобили" Make="Audi" Model="V8"/>
+	<Model Category="Автомобили" Make="Audi" Model="Другая"/>
+	<Model Category="Автомобили" Make="Bajaj" Model="Qute"/>
+	<Model Category="Автомобили" Make="Bajaj" Model="Другая"/>
+	<Model Category="Автомобили" Make="Barkas" Model="B1000"/>
+	<Model Category="Автомобили" Make="BAW" Model="Fenix"/>
+	<Model Category="Автомобили" Make="BAW" Model="Tonik"/>
+	<Model Category="Автомобили" Make="BAW" Model="Другая"/>
+	<Model Category="Автомобили" Make="Bentley" Model="Arnage"/>
+	<Model Category="Автомобили" Make="Bentley" Model="Azure"/>
+	<Model Category="Автомобили" Make="Bentley" Model="Bentayga"/>
+	<Model Category="Автомобили" Make="Bentley" Model="Brooklands"/>
+	<Model Category="Автомобили" Make="Bentley" Model="Continental"/>
+	<Model Category="Автомобили" Make="Bentley" Model="Continental Flying Spur"/>
+	<Model Category="Автомобили" Make="Bentley" Model="Continental GT"/>
+	<Model Category="Автомобили" Make="Bentley" Model="Continental GTC"/>
+	<Model Category="Автомобили" Make="Bentley" Model="Continental Supersports"/>
+	<Model Category="Автомобили" Make="Bentley" Model="Eight"/>
+	<Model Category="Автомобили" Make="Bentley" Model="Flying Spur"/>
+	<Model Category="Автомобили" Make="Bentley" Model="Mulsanne"/>
+	<Model Category="Автомобили" Make="Bentley" Model="S"/>
+	<Model Category="Автомобили" Make="Bentley" Model="Turbo R"/>
+	<Model Category="Автомобили" Make="Bentley" Model="Другая"/>
+	<Model Category="Автомобили" Make="BMW" Model="1 серия"/>
+	<Model Category="Автомобили" Make="BMW" Model="1M"/>
+	<Model Category="Автомобили" Make="BMW" Model="2 серия"/>
+	<Model Category="Автомобили" Make="BMW" Model="2 серия Active Tourer"/>
+	<Model Category="Автомобили" Make="BMW" Model="2 серия Grand Tourer"/>
+	<Model Category="Автомобили" Make="BMW" Model="3 серия"/>
+	<Model Category="Автомобили" Make="BMW" Model="3 серия GT"/>
+	<Model Category="Автомобили" Make="BMW" Model="321"/>
+	<Model Category="Автомобили" Make="BMW" Model="326"/>
+	<Model Category="Автомобили" Make="BMW" Model="340"/>
+	<Model Category="Автомобили" Make="BMW" Model="4 серия"/>
+	<Model Category="Автомобили" Make="BMW" Model="4 серия Gran Coupe"/>
+	<Model Category="Автомобили" Make="BMW" Model="5 серия"/>
+	<Model Category="Автомобили" Make="BMW" Model="5 серия GT"/>
+	<Model Category="Автомобили" Make="BMW" Model="6 серия"/>
+	<Model Category="Автомобили" Make="BMW" Model="6 серия Gran Coupe"/>
+	<Model Category="Автомобили" Make="BMW" Model="6 серия GT"/>
+	<Model Category="Автомобили" Make="BMW" Model="7 серия"/>
+	<Model Category="Автомобили" Make="BMW" Model="8 серия"/>
+	<Model Category="Автомобили" Make="BMW" Model="i3"/>
+	<Model Category="Автомобили" Make="BMW" Model="i8"/>
+	<Model Category="Автомобили" Make="BMW" Model="M2"/>
+	<Model Category="Автомобили" Make="BMW" Model="M3"/>
+	<Model Category="Автомобили" Make="BMW" Model="M4"/>
+	<Model Category="Автомобили" Make="BMW" Model="M5"/>
+	<Model Category="Автомобили" Make="BMW" Model="M6"/>
+	<Model Category="Автомобили" Make="BMW" Model="X1"/>
+	<Model Category="Автомобили" Make="BMW" Model="X2"/>
+	<Model Category="Автомобили" Make="BMW" Model="X3"/>
+	<Model Category="Автомобили" Make="BMW" Model="X4"/>
+	<Model Category="Автомобили" Make="BMW" Model="X5"/>
+	<Model Category="Автомобили" Make="BMW" Model="X5 M"/>
+	<Model Category="Автомобили" Make="BMW" Model="X6"/>
+	<Model Category="Автомобили" Make="BMW" Model="X6 M"/>
+	<Model Category="Автомобили" Make="BMW" Model="X7"/>
+	<Model Category="Автомобили" Make="BMW" Model="Z1"/>
+	<Model Category="Автомобили" Make="BMW" Model="Z3"/>
+	<Model Category="Автомобили" Make="BMW" Model="Z3 M"/>
+	<Model Category="Автомобили" Make="BMW" Model="Z4"/>
+	<Model Category="Автомобили" Make="BMW" Model="Z4 M"/>
+	<Model Category="Автомобили" Make="BMW" Model="Z8"/>
+	<Model Category="Автомобили" Make="BMW" Model="Другая"/>
+	<Model Category="Автомобили" Make="Brilliance" Model="FRV (BS2)"/>
+	<Model Category="Автомобили" Make="Brilliance" Model="H230"/>
+	<Model Category="Автомобили" Make="Brilliance" Model="H530"/>
+	<Model Category="Автомобили" Make="Brilliance" Model="M1 (BS6)"/>
+	<Model Category="Автомобили" Make="Brilliance" Model="M2 (BS4)"/>
+	<Model Category="Автомобили" Make="Brilliance" Model="M3 (BC3)"/>
+	<Model Category="Автомобили" Make="Brilliance" Model="V3"/>
+	<Model Category="Автомобили" Make="Brilliance" Model="V5"/>
+	<Model Category="Автомобили" Make="Brilliance" Model="Другая"/>
+	<Model Category="Автомобили" Make="Bufori" Model="La Joya"/>
+	<Model Category="Автомобили" Make="Bufori" Model="Другая"/>
+	<Model Category="Автомобили" Make="Bugatti" Model="Chiron"/>
+	<Model Category="Автомобили" Make="Bugatti" Model="EB"/>
+	<Model Category="Автомобили" Make="Bugatti" Model="T55"/>
+	<Model Category="Автомобили" Make="Bugatti" Model="Veyron"/>
+	<Model Category="Автомобили" Make="Bugatti" Model="Другая"/>
+	<Model Category="Автомобили" Make="Buick" Model="Allure"/>
+	<Model Category="Автомобили" Make="Buick" Model="Aura"/>
+	<Model Category="Автомобили" Make="Buick" Model="Century"/>
+	<Model Category="Автомобили" Make="Buick" Model="Electra"/>
+	<Model Category="Автомобили" Make="Buick" Model="Enclave"/>
+	<Model Category="Автомобили" Make="Buick" Model="Encore"/>
+	<Model Category="Автомобили" Make="Buick" Model="Excelle"/>
+	<Model Category="Автомобили" Make="Buick" Model="GL8"/>
+	<Model Category="Автомобили" Make="Buick" Model="LaCrosse"/>
+	<Model Category="Автомобили" Make="Buick" Model="LeSabre"/>
+	<Model Category="Автомобили" Make="Buick" Model="Lucerne"/>
+	<Model Category="Автомобили" Make="Buick" Model="Park Avenue"/>
+	<Model Category="Автомобили" Make="Buick" Model="Rainer"/>
+	<Model Category="Автомобили" Make="Buick" Model="Reatta"/>
+	<Model Category="Автомобили" Make="Buick" Model="Regal"/>
+	<Model Category="Автомобили" Make="Buick" Model="Rendezvous"/>
+	<Model Category="Автомобили" Make="Buick" Model="Riviera"/>
+	<Model Category="Автомобили" Make="Buick" Model="Roadmaster"/>
+	<Model Category="Автомобили" Make="Buick" Model="Royaum"/>
+	<Model Category="Автомобили" Make="Buick" Model="Sedan"/>
+	<Model Category="Автомобили" Make="Buick" Model="Skylark"/>
+	<Model Category="Автомобили" Make="Buick" Model="Terraza"/>
+	<Model Category="Автомобили" Make="Buick" Model="Другая"/>
+	<Model Category="Автомобили" Make="BYD" Model="ET"/>
+	<Model Category="Автомобили" Make="BYD" Model="F0"/>
+	<Model Category="Автомобили" Make="BYD" Model="F2"/>
+	<Model Category="Автомобили" Make="BYD" Model="F3"/>
+	<Model Category="Автомобили" Make="BYD" Model="F6"/>
+	<Model Category="Автомобили" Make="BYD" Model="Flyer"/>
+	<Model Category="Автомобили" Make="BYD" Model="S8"/>
+	<Model Category="Автомобили" Make="BYD" Model="Другая"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="Allante"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="ATS"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="BLS"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="Brougham"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="Catera"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="CT6"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="CTS"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="CTS-V"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="DE Ville"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="DTS"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="Eldorado"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="ELR"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="Escalade"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="Fleetwood"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="LSE"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="Seville"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="SRX"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="STS"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="Victoria"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="XLR"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="XT4‍"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="XT5"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="XT6"/>
+	<Model Category="Автомобили" Make="Cadillac" Model="Другая"/>
+	<Model Category="Автомобили" Make="Caterham" Model="21"/>
+	<Model Category="Автомобили" Make="Caterham" Model="7"/>
+	<Model Category="Автомобили" Make="Caterham" Model="Другая"/>
+	<Model Category="Автомобили" Make="Changan" Model="Benni"/>
+	<Model Category="Автомобили" Make="Changan" Model="CM-8"/>
+	<Model Category="Автомобили" Make="Changan" Model="CS35"/>
+	<Model Category="Автомобили" Make="Changan" Model="CS75"/>
+	<Model Category="Автомобили" Make="Changan" Model="Eado"/>
+	<Model Category="Автомобили" Make="Changan" Model="Raeton"/>
+	<Model Category="Автомобили" Make="Changan" Model="Z-Chine"/>
+	<Model Category="Автомобили" Make="Changan" Model="Другая"/>
+	<Model Category="Автомобили" Make="ChangFeng" Model="Flying PickUp"/>
+	<Model Category="Автомобили" Make="ChangFeng" Model="Flying SUV"/>
+	<Model Category="Автомобили" Make="ChangFeng" Model="SUV"/>
+	<Model Category="Автомобили" Make="ChangFeng" Model="Другая"/>
+	<Model Category="Автомобили" Make="Changhe" Model="Ideal"/>
+	<Model Category="Автомобили" Make="Chery" Model="A5"/>
+	<Model Category="Автомобили" Make="Chery" Model="Amulet (A15)"/>
+	<Model Category="Автомобили" Make="Chery" Model="Arrizo 3"/>
+	<Model Category="Автомобили" Make="Chery" Model="Arrizo 7"/>
+	<Model Category="Автомобили" Make="Chery" Model="Bonus (A13)"/>
+	<Model Category="Автомобили" Make="Chery" Model="Bonus 3 (E3)"/>
+	<Model Category="Автомобили" Make="Chery" Model="CrossEastar (B14)"/>
+	<Model Category="Автомобили" Make="Chery" Model="Fora (A21)"/>
+	<Model Category="Автомобили" Make="Chery" Model="IndiS (S18D)"/>
+	<Model Category="Автомобили" Make="Chery" Model="Kimo (A1)"/>
+	<Model Category="Автомобили" Make="Chery" Model="M11 (A3)"/>
+	<Model Category="Автомобили" Make="Chery" Model="Oriental Son (B11)"/>
+	<Model Category="Автомобили" Make="Chery" Model="QQ6 (S21)"/>
+	<Model Category="Автомобили" Make="Chery" Model="Sweet (QQ)"/>
+	<Model Category="Автомобили" Make="Chery" Model="Tiggo (T11)"/>
+	<Model Category="Автомобили" Make="Chery" Model="Tiggo 2"/>
+	<Model Category="Автомобили" Make="Chery" Model="Tiggo 3"/>
+	<Model Category="Автомобили" Make="Chery" Model="Tiggo 4"/>
+	<Model Category="Автомобили" Make="Chery" Model="Tiggo 5"/>
+	<Model Category="Автомобили" Make="Chery" Model="Tiggo 7"/>
+	<Model Category="Автомобили" Make="Chery" Model="Tiggo 8"/>
+	<Model Category="Автомобили" Make="Chery" Model="Very"/>
+	<Model Category="Автомобили" Make="Chery" Model="Другая"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Alero"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Astra"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Astro"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Avalanche"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Aveo"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Bel Air"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Beretta"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Blazer"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Blazer K5"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="C/K"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="C10"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Camaro"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Caprice"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Captiva"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Cavalier"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Celebrity"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Celta"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Chevelle"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Chevette"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Classic"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Cobalt"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Colorado"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Corsa"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Corsica"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Corvair"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Corvette"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Cruze"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Cruze HR"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Deluxe"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="El Camino"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Epica"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Equinox"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Evanda"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Express"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Geo Storm"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="HHR"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Impala"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Lacetti"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Lanos"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Lumina"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="LUV D-MAX"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Malibu"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Metro"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Monte Carlo"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Monza"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="MW"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Niva"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Nubira"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Omega"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Orlando"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Prizm"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Rezzo"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="S10"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Sail"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Silverado"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Sonic"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Spark"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="SSR"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Starcraft"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Suburban"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Tahoe"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Tavera"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Tracker"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="TrailBlazer"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Trans Sport"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Traverse"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Uplander"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Van"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Vectra"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Venture"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Viva"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Volt"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Zafira"/>
+	<Model Category="Автомобили" Make="Chevrolet" Model="Другая"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="200"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="300 Letter Series"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="300C"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="300M"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Aspen"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Cirrus"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Concorde"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Crossfire"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Daytona Shelby"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Dynasty"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Fifth Avenue"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Grand Voyager"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Imperial"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Intrepid"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="LeBaron"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="LHS"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Nassau"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Neon"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="New Yorker"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Pacifica"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Prowler"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="PT Cruiser"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Saratoga"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Sebring"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Stratus"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Town &amp; Country"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Viper"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Vision"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Voyager"/>
+	<Model Category="Автомобили" Make="Chrysler" Model="Другая"/>
+	<Model Category="Автомобили" Make="Citroen" Model="2 CV"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Acadiane"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Ami"/>
+	<Model Category="Автомобили" Make="Citroen" Model="AX"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Berlingo"/>
+	<Model Category="Автомобили" Make="Citroen" Model="BX"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C-Crosser"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C-Elysee"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C-Zero"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C1"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C15"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C2"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C25"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C3"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C3 Aircross"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C3 Picasso"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C35"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C4"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C4 Aircross"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C4 Picasso"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C4 SpaceTourer"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C5"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C5 Aircross"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C6"/>
+	<Model Category="Автомобили" Make="Citroen" Model="C8"/>
+	<Model Category="Автомобили" Make="Citroen" Model="CX"/>
+	<Model Category="Автомобили" Make="Citroen" Model="DS 3"/>
+	<Model Category="Автомобили" Make="Citroen" Model="DS 4"/>
+	<Model Category="Автомобили" Make="Citroen" Model="DS 5"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Dyane"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Evasion"/>
+	<Model Category="Автомобили" Make="Citroen" Model="FAF"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Grand C4 Picasso"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Grand C4 SpaceTourer"/>
+	<Model Category="Автомобили" Make="Citroen" Model="GS"/>
+	<Model Category="Автомобили" Make="Citroen" Model="GSA"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Jumper"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Jumpy"/>
+	<Model Category="Автомобили" Make="Citroen" Model="LN"/>
+	<Model Category="Автомобили" Make="Citroen" Model="LNA"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Mehari"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Nemo"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Saxo"/>
+	<Model Category="Автомобили" Make="Citroen" Model="SpaceTourer"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Synergie"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Type H"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Visa"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Xantia"/>
+	<Model Category="Автомобили" Make="Citroen" Model="XM"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Xsara"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Xsara Picasso"/>
+	<Model Category="Автомобили" Make="Citroen" Model="ZX"/>
+	<Model Category="Автомобили" Make="Citroen" Model="Другая"/>
+	<Model Category="Автомобили" Make="Dacia" Model="1304"/>
+	<Model Category="Автомобили" Make="Dacia" Model="1310"/>
+	<Model Category="Автомобили" Make="Dacia" Model="1325"/>
+	<Model Category="Автомобили" Make="Dacia" Model="1410"/>
+	<Model Category="Автомобили" Make="Dacia" Model="Dokker"/>
+	<Model Category="Автомобили" Make="Dacia" Model="Duster"/>
+	<Model Category="Автомобили" Make="Dacia" Model="Lodgy"/>
+	<Model Category="Автомобили" Make="Dacia" Model="Logan"/>
+	<Model Category="Автомобили" Make="Dacia" Model="Nova"/>
+	<Model Category="Автомобили" Make="Dacia" Model="Sandero"/>
+	<Model Category="Автомобили" Make="Dacia" Model="Solenza"/>
+	<Model Category="Автомобили" Make="Dacia" Model="Super Nova"/>
+	<Model Category="Автомобили" Make="Dacia" Model="Другая"/>
+	<Model Category="Автомобили" Make="Dadi" Model="City Leading"/>
+	<Model Category="Автомобили" Make="Dadi" Model="Shuttle"/>
+	<Model Category="Автомобили" Make="Dadi" Model="Smoothing"/>
+	<Model Category="Автомобили" Make="Dadi" Model="Другая"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Arcadia"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Brougham"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Charman"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Damas"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Espero"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Evanda"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="G2X"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Gentra"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Istana"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Kalos"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Korando"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Labo"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Lacetti"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Lacetti Premiere"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Lanos"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Leganza"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="LeMans"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Lublin"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Magnus"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Matiz"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Matiz Creative"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Musso"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Nexia"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Nubira"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Prince"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Racer"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Rezzo"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Sens"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Statesman"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Super Salon"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Tacuma"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Tico"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Tosca"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Winstorm"/>
+	<Model Category="Автомобили" Make="Daewoo" Model="Другая"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Altis"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Applause"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Atrai"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Be-go"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Boon"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Ceria"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Charade"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Charmant"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Coo"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Copen"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Cuore"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Delta"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Esse"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Feroza"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Hijet"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Leeza"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Materia"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="MAX"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Mira"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Move"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Naked"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Opti"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Perodua Viva"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Pyzar"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Rocky"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Sirion"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Sonica"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Storia"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Taft"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Tanto"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Terios"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Trevis"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Wake"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Wildcat"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Xenia"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="YRV"/>
+	<Model Category="Автомобили" Make="Daihatsu" Model="Другая"/>
+	<Model Category="Автомобили" Make="Daimler" Model="Coupe"/>
+	<Model Category="Автомобили" Make="Daimler" Model="Landaulette"/>
+	<Model Category="Автомобили" Make="Daimler" Model="Limousine"/>
+	<Model Category="Автомобили" Make="Daimler" Model="Super Eight"/>
+	<Model Category="Автомобили" Make="Daimler" Model="XJ"/>
+	<Model Category="Автомобили" Make="Daimler" Model="Другая"/>
+	<Model Category="Автомобили" Make="Datsun" Model="1200"/>
+	<Model Category="Автомобили" Make="Datsun" Model="mi-DO"/>
+	<Model Category="Автомобили" Make="Datsun" Model="on-DO"/>
+	<Model Category="Автомобили" Make="Datsun" Model="Sunny"/>
+	<Model Category="Автомобили" Make="Datsun" Model="Другая"/>
+	<Model Category="Автомобили" Make="DeLorean" Model="DMC-12"/>
+	<Model Category="Автомобили" Make="Derways" Model="Antelope"/>
+	<Model Category="Автомобили" Make="Derways" Model="Aurora"/>
+	<Model Category="Автомобили" Make="Derways" Model="Cowboy"/>
+	<Model Category="Автомобили" Make="Derways" Model="Land Crown"/>
+	<Model Category="Автомобили" Make="Derways" Model="Plutus"/>
+	<Model Category="Автомобили" Make="Derways" Model="Saladin"/>
+	<Model Category="Автомобили" Make="Derways" Model="Shuttle"/>
+	<Model Category="Автомобили" Make="Derways" Model="Другая"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Aries"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Avenger"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Caliber"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Caravan"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Challenger"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Charger"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Dakota"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Dart"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Daytona"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Durango"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Dynasty"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Grand Caravan"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Intrepid"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Journey"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Magnum"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Monaco"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Neon"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Nitro"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Ram"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Ram Van"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Shadow"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Spirit"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Stealth"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Stratus"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Viper"/>
+	<Model Category="Автомобили" Make="Dodge" Model="Другая"/>
+	<Model Category="Автомобили" Make="Dongfeng" Model="580"/>
+	<Model Category="Автомобили" Make="Dongfeng" Model="A30"/>
+	<Model Category="Автомобили" Make="Dongfeng" Model="AX3"/>
+	<Model Category="Автомобили" Make="Dongfeng" Model="AX4"/>
+	<Model Category="Автомобили" Make="Dongfeng" Model="AX7"/>
+	<Model Category="Автомобили" Make="Dongfeng" Model="EQ 1030"/>
+	<Model Category="Автомобили" Make="Dongfeng" Model="H30 Cross"/>
+	<Model Category="Автомобили" Make="Dongfeng" Model="MPV"/>
+	<Model Category="Автомобили" Make="Dongfeng" Model="Oting"/>
+	<Model Category="Автомобили" Make="Dongfeng" Model="Rich"/>
+	<Model Category="Автомобили" Make="Dongfeng" Model="S30"/>
+	<Model Category="Автомобили" Make="Dongfeng" Model="ZND"/>
+	<Model Category="Автомобили" Make="Dongfeng" Model="Другая"/>
+	<Model Category="Автомобили" Make="Doninvest" Model="Assol"/>
+	<Model Category="Автомобили" Make="Doninvest" Model="Kondor"/>
+	<Model Category="Автомобили" Make="Doninvest" Model="Orion"/>
+	<Model Category="Автомобили" Make="Doninvest" Model="Другая"/>
+	<Model Category="Автомобили" Make="DS" Model="DS 3"/>
+	<Model Category="Автомобили" Make="DS" Model="DS 4"/>
+	<Model Category="Автомобили" Make="DS" Model="DS 4 Crossback"/>
+	<Model Category="Автомобили" Make="DS" Model="DS 5"/>
+	<Model Category="Автомобили" Make="DS" Model="DS 7 Crossback"/>
+	<Model Category="Автомобили" Make="DW Hower" Model="H3"/>
+	<Model Category="Автомобили" Make="DW Hower" Model="H5"/>
+	<Model Category="Автомобили" Make="Eagle" Model="Premier"/>
+	<Model Category="Автомобили" Make="Eagle" Model="SS"/>
+	<Model Category="Автомобили" Make="Eagle" Model="Summit"/>
+	<Model Category="Автомобили" Make="Eagle" Model="Talon"/>
+	<Model Category="Автомобили" Make="Eagle" Model="Vision"/>
+	<Model Category="Автомобили" Make="Eagle" Model="Другая"/>
+	<Model Category="Автомобили" Make="Ecomotors" Model="Estrima Biro"/>
+	<Model Category="Автомобили" Make="Ecomotors" Model="Другая"/>
+	<Model Category="Автомобили" Make="FAW" Model="Admiral"/>
+	<Model Category="Автомобили" Make="FAW" Model="Besturn"/>
+	<Model Category="Автомобили" Make="FAW" Model="Besturn B50"/>
+	<Model Category="Автомобили" Make="FAW" Model="Besturn B70"/>
+	<Model Category="Автомобили" Make="FAW" Model="Besturn X40"/>
+	<Model Category="Автомобили" Make="FAW" Model="Besturn X80"/>
+	<Model Category="Автомобили" Make="FAW" Model="Bora"/>
+	<Model Category="Автомобили" Make="FAW" Model="City Golf"/>
+	<Model Category="Автомобили" Make="FAW" Model="D60"/>
+	<Model Category="Автомобили" Make="FAW" Model="Jetta"/>
+	<Model Category="Автомобили" Make="FAW" Model="Jinn"/>
+	<Model Category="Автомобили" Make="FAW" Model="Landmark"/>
+	<Model Category="Автомобили" Make="FAW" Model="Oley"/>
+	<Model Category="Автомобили" Make="FAW" Model="V2"/>
+	<Model Category="Автомобили" Make="FAW" Model="V5"/>
+	<Model Category="Автомобили" Make="FAW" Model="Vela"/>
+	<Model Category="Автомобили" Make="FAW" Model="Vita"/>
+	<Model Category="Автомобили" Make="FAW" Model="Vizi"/>
+	<Model Category="Автомобили" Make="FAW" Model="Другая"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="208"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="308"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="328"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="348"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="360"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="412"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="456"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="458 Italia"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="458 Spider"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="550"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="575M Maranello"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="599 GTB Fiorano"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="612 Scaglietti"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="California"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="Dino"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="Enzo"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="F12berlinetta"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="F355"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="F40"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="F430"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="F50"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="FF"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="Mondial"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="Portofino"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="Testarossa"/>
+	<Model Category="Автомобили" Make="Ferrari" Model="Другая"/>
+	<Model Category="Автомобили" Make="FIAT" Model="124"/>
+	<Model Category="Автомобили" Make="FIAT" Model="126"/>
+	<Model Category="Автомобили" Make="FIAT" Model="127"/>
+	<Model Category="Автомобили" Make="FIAT" Model="131"/>
+	<Model Category="Автомобили" Make="FIAT" Model="500"/>
+	<Model Category="Автомобили" Make="FIAT" Model="600"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Albea"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Barchetta"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Brava"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Bravo"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Cinquecento"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Coupe"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Croma"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Doblo"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Ducato"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Duna"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Fiorino"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Freemont"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Fullback"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Idea"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Linea"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Marea"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Multipla"/>
+	<Model Category="Автомобили" Make="FIAT" Model="New 500"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Palio"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Panda"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Punto"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Qubo"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Regata"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Ritmo"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Scudo"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Sedici"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Seicento"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Siena"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Stilo"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Strada"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Tempra"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Tipo"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Ulysse"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Uno"/>
+	<Model Category="Автомобили" Make="FIAT" Model="X1/9"/>
+	<Model Category="Автомобили" Make="FIAT" Model="Другая"/>
+	<Model Category="Автомобили" Make="Ford" Model="Aerostar"/>
+	<Model Category="Автомобили" Make="Ford" Model="Aspire"/>
+	<Model Category="Автомобили" Make="Ford" Model="Bronco"/>
+	<Model Category="Автомобили" Make="Ford" Model="C-MAX"/>
+	<Model Category="Автомобили" Make="Ford" Model="Capri"/>
+	<Model Category="Автомобили" Make="Ford" Model="Consul"/>
+	<Model Category="Автомобили" Make="Ford" Model="Contour"/>
+	<Model Category="Автомобили" Make="Ford" Model="Cougar"/>
+	<Model Category="Автомобили" Make="Ford" Model="Courier"/>
+	<Model Category="Автомобили" Make="Ford" Model="Crown Victoria"/>
+	<Model Category="Автомобили" Make="Ford" Model="Econoline"/>
+	<Model Category="Автомобили" Make="Ford" Model="Econovan"/>
+	<Model Category="Автомобили" Make="Ford" Model="EcoSport"/>
+	<Model Category="Автомобили" Make="Ford" Model="Edge"/>
+	<Model Category="Автомобили" Make="Ford" Model="Escape"/>
+	<Model Category="Автомобили" Make="Ford" Model="Escort"/>
+	<Model Category="Автомобили" Make="Ford" Model="Everest"/>
+	<Model Category="Автомобили" Make="Ford" Model="Excursion"/>
+	<Model Category="Автомобили" Make="Ford" Model="Expedition"/>
+	<Model Category="Автомобили" Make="Ford" Model="Explorer"/>
+	<Model Category="Автомобили" Make="Ford" Model="F-150"/>
+	<Model Category="Автомобили" Make="Ford" Model="F-250"/>
+	<Model Category="Автомобили" Make="Ford" Model="F-350"/>
+	<Model Category="Автомобили" Make="Ford" Model="Fairlane"/>
+	<Model Category="Автомобили" Make="Ford" Model="Festiva"/>
+	<Model Category="Автомобили" Make="Ford" Model="Fiesta"/>
+	<Model Category="Автомобили" Make="Ford" Model="Fiesta ST"/>
+	<Model Category="Автомобили" Make="Ford" Model="Five Hundred"/>
+	<Model Category="Автомобили" Make="Ford" Model="Flex"/>
+	<Model Category="Автомобили" Make="Ford" Model="Focus"/>
+	<Model Category="Автомобили" Make="Ford" Model="Focus RS"/>
+	<Model Category="Автомобили" Make="Ford" Model="Focus ST"/>
+	<Model Category="Автомобили" Make="Ford" Model="Freda"/>
+	<Model Category="Автомобили" Make="Ford" Model="Freestar"/>
+	<Model Category="Автомобили" Make="Ford" Model="Freestyle"/>
+	<Model Category="Автомобили" Make="Ford" Model="Fusion"/>
+	<Model Category="Автомобили" Make="Ford" Model="Galaxie"/>
+	<Model Category="Автомобили" Make="Ford" Model="Galaxy"/>
+	<Model Category="Автомобили" Make="Ford" Model="Granada"/>
+	<Model Category="Автомобили" Make="Ford" Model="Grand C-MAX"/>
+	<Model Category="Автомобили" Make="Ford" Model="GT"/>
+	<Model Category="Автомобили" Make="Ford" Model="Ixion"/>
+	<Model Category="Автомобили" Make="Ford" Model="Ka"/>
+	<Model Category="Автомобили" Make="Ford" Model="Kuga"/>
+	<Model Category="Автомобили" Make="Ford" Model="Laser"/>
+	<Model Category="Автомобили" Make="Ford" Model="Maverick"/>
+	<Model Category="Автомобили" Make="Ford" Model="Model A"/>
+	<Model Category="Автомобили" Make="Ford" Model="Model T"/>
+	<Model Category="Автомобили" Make="Ford" Model="Mondeo"/>
+	<Model Category="Автомобили" Make="Ford" Model="Mondeo ST"/>
+	<Model Category="Автомобили" Make="Ford" Model="Mustang"/>
+	<Model Category="Автомобили" Make="Ford" Model="Orion"/>
+	<Model Category="Автомобили" Make="Ford" Model="Probe"/>
+	<Model Category="Автомобили" Make="Ford" Model="Puma"/>
+	<Model Category="Автомобили" Make="Ford" Model="Ranger"/>
+	<Model Category="Автомобили" Make="Ford" Model="Ranger (North America)"/>
+	<Model Category="Автомобили" Make="Ford" Model="S-MAX"/>
+	<Model Category="Автомобили" Make="Ford" Model="Scorpio"/>
+	<Model Category="Автомобили" Make="Ford" Model="Shelby"/>
+	<Model Category="Автомобили" Make="Ford" Model="Sierra"/>
+	<Model Category="Автомобили" Make="Ford" Model="Spectron"/>
+	<Model Category="Автомобили" Make="Ford" Model="Taunus"/>
+	<Model Category="Автомобили" Make="Ford" Model="Taurus"/>
+	<Model Category="Автомобили" Make="Ford" Model="Telstar"/>
+	<Model Category="Автомобили" Make="Ford" Model="Tempo"/>
+	<Model Category="Автомобили" Make="Ford" Model="Thunderbird"/>
+	<Model Category="Автомобили" Make="Ford" Model="Tourneo"/>
+	<Model Category="Автомобили" Make="Ford" Model="Tourneo Connect"/>
+	<Model Category="Автомобили" Make="Ford" Model="Tourneo Custom"/>
+	<Model Category="Автомобили" Make="Ford" Model="Transit"/>
+	<Model Category="Автомобили" Make="Ford" Model="Transit Connect"/>
+	<Model Category="Автомобили" Make="Ford" Model="Windstar"/>
+	<Model Category="Автомобили" Make="Ford" Model="Другая"/>
+	<Model Category="Автомобили" Make="Foton" Model="Alpha Van"/>
+	<Model Category="Автомобили" Make="Foton" Model="Gratour"/>
+	<Model Category="Автомобили" Make="Foton" Model="Sauvana"/>
+	<Model Category="Автомобили" Make="Foton" Model="Toano"/>
+	<Model Category="Автомобили" Make="Foton" Model="Tunland"/>
+	<Model Category="Автомобили" Make="Foton" Model="View CS2"/>
+	<Model Category="Автомобили" Make="GAC" Model="WAY M1"/>
+	<Model Category="Автомобили" Make="GAC" Model="WAY M2"/>
+	<Model Category="Автомобили" Make="GAC" Model="WAY V1"/>
+	<Model Category="Автомобили" Make="Geely" Model="Atlas"/>
+	<Model Category="Автомобили" Make="Geely" Model="CK (Otaka)"/>
+	<Model Category="Автомобили" Make="Geely" Model="Emgrand 7"/>
+	<Model Category="Автомобили" Make="Geely" Model="Emgrand EC7"/>
+	<Model Category="Автомобили" Make="Geely" Model="Emgrand GT"/>
+	<Model Category="Автомобили" Make="Geely" Model="Emgrand X7"/>
+	<Model Category="Автомобили" Make="Geely" Model="FC (Vision)"/>
+	<Model Category="Автомобили" Make="Geely" Model="GC6"/>
+	<Model Category="Автомобили" Make="Geely" Model="GC9"/>
+	<Model Category="Автомобили" Make="Geely" Model="LC (Panda)"/>
+	<Model Category="Автомобили" Make="Geely" Model="LC (Panda) Cross"/>
+	<Model Category="Автомобили" Make="Geely" Model="Merrie"/>
+	<Model Category="Автомобили" Make="Geely" Model="MK"/>
+	<Model Category="Автомобили" Make="Geely" Model="MK Cross"/>
+	<Model Category="Автомобили" Make="Geely" Model="Другая"/>
+	<Model Category="Автомобили" Make="Genesis" Model="G70"/>
+	<Model Category="Автомобили" Make="Genesis" Model="G80"/>
+	<Model Category="Автомобили" Make="Genesis" Model="G90"/>
+	<Model Category="Автомобили" Make="Geo" Model="Metro"/>
+	<Model Category="Автомобили" Make="Geo" Model="Prizm"/>
+	<Model Category="Автомобили" Make="Geo" Model="Spectrum"/>
+	<Model Category="Автомобили" Make="Geo" Model="Storm"/>
+	<Model Category="Автомобили" Make="Geo" Model="Tracker"/>
+	<Model Category="Автомобили" Make="Geo" Model="Другая"/>
+	<Model Category="Автомобили" Make="GMC" Model="Acadia"/>
+	<Model Category="Автомобили" Make="GMC" Model="Aventra"/>
+	<Model Category="Автомобили" Make="GMC" Model="Berlina"/>
+	<Model Category="Автомобили" Make="GMC" Model="Calais"/>
+	<Model Category="Автомобили" Make="GMC" Model="Canyon"/>
+	<Model Category="Автомобили" Make="GMC" Model="Caprice"/>
+	<Model Category="Автомобили" Make="GMC" Model="Commodore"/>
+	<Model Category="Автомобили" Make="GMC" Model="Cruze"/>
+	<Model Category="Автомобили" Make="GMC" Model="Envoy"/>
+	<Model Category="Автомобили" Make="GMC" Model="Jimmy"/>
+	<Model Category="Автомобили" Make="GMC" Model="Safari"/>
+	<Model Category="Автомобили" Make="GMC" Model="Savana"/>
+	<Model Category="Автомобили" Make="GMC" Model="Sierra"/>
+	<Model Category="Автомобили" Make="GMC" Model="Statesman"/>
+	<Model Category="Автомобили" Make="GMC" Model="Suburban"/>
+	<Model Category="Автомобили" Make="GMC" Model="Terrain"/>
+	<Model Category="Автомобили" Make="GMC" Model="Typhoon"/>
+	<Model Category="Автомобили" Make="GMC" Model="Vandura"/>
+	<Model Category="Автомобили" Make="GMC" Model="Yukon"/>
+	<Model Category="Автомобили" Make="GMC" Model="Другая"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Coolbear"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Cowry"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Deer"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Florid"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Hover"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Hover H3"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Hover H5"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Hover H6"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Hover M2"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Hover M4"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Pegasus"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Peri"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Safe"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Sailor"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Sing RUV"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Sokol"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Voleex C10"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Voleex C30"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Wingle"/>
+	<Model Category="Автомобили" Make="Great Wall" Model="Другая"/>
+	<Model Category="Автомобили" Make="Hafei" Model="Brio"/>
+	<Model Category="Автомобили" Make="Hafei" Model="Princip"/>
+	<Model Category="Автомобили" Make="Hafei" Model="Saibao"/>
+	<Model Category="Автомобили" Make="Hafei" Model="Sigma"/>
+	<Model Category="Автомобили" Make="Hafei" Model="Simbo"/>
+	<Model Category="Автомобили" Make="Hafei" Model="Другая"/>
+	<Model Category="Автомобили" Make="Haima" Model="2"/>
+	<Model Category="Автомобили" Make="Haima" Model="3"/>
+	<Model Category="Автомобили" Make="Haima" Model="7"/>
+	<Model Category="Автомобили" Make="Haima" Model="M3"/>
+	<Model Category="Автомобили" Make="Haima" Model="S5"/>
+	<Model Category="Автомобили" Make="Haima" Model="Другая"/>
+	<Model Category="Автомобили" Make="Hanomag" Model="Rekord"/>
+	<Model Category="Автомобили" Make="Haval" Model="F7"/>
+	<Model Category="Автомобили" Make="Haval" Model="H1"/>
+	<Model Category="Автомобили" Make="Haval" Model="H2"/>
+	<Model Category="Автомобили" Make="Haval" Model="H6"/>
+	<Model Category="Автомобили" Make="Haval" Model="H6 Coupe"/>
+	<Model Category="Автомобили" Make="Haval" Model="H7"/>
+	<Model Category="Автомобили" Make="Haval" Model="H8"/>
+	<Model Category="Автомобили" Make="Haval" Model="H9"/>
+	<Model Category="Автомобили" Make="Haval" Model="Другая"/>
+	<Model Category="Автомобили" Make="Hawtai" Model="Boliger"/>
+	<Model Category="Автомобили" Make="Hawtai" Model="Laville"/>
+	<Model Category="Автомобили" Make="Hawtai" Model="Другая"/>
+	<Model Category="Автомобили" Make="Honda" Model="Accord"/>
+	<Model Category="Автомобили" Make="Honda" Model="Acty"/>
+	<Model Category="Автомобили" Make="Honda" Model="Airwave"/>
+	<Model Category="Автомобили" Make="Honda" Model="Ascot"/>
+	<Model Category="Автомобили" Make="Honda" Model="Avancier"/>
+	<Model Category="Автомобили" Make="Honda" Model="Beat"/>
+	<Model Category="Автомобили" Make="Honda" Model="Capa"/>
+	<Model Category="Автомобили" Make="Honda" Model="City"/>
+	<Model Category="Автомобили" Make="Honda" Model="Civic"/>
+	<Model Category="Автомобили" Make="Honda" Model="Civic Ferio"/>
+	<Model Category="Автомобили" Make="Honda" Model="Concerto"/>
+	<Model Category="Автомобили" Make="Honda" Model="CR-V"/>
+	<Model Category="Автомобили" Make="Honda" Model="CR-X"/>
+	<Model Category="Автомобили" Make="Honda" Model="CR-Z"/>
+	<Model Category="Автомобили" Make="Honda" Model="Crossroad"/>
+	<Model Category="Автомобили" Make="Honda" Model="Crosstour"/>
+	<Model Category="Автомобили" Make="Honda" Model="Domani"/>
+	<Model Category="Автомобили" Make="Honda" Model="Edix"/>
+	<Model Category="Автомобили" Make="Honda" Model="Element"/>
+	<Model Category="Автомобили" Make="Honda" Model="Elysion"/>
+	<Model Category="Автомобили" Make="Honda" Model="Fit"/>
+	<Model Category="Автомобили" Make="Honda" Model="Fit Aria"/>
+	<Model Category="Автомобили" Make="Honda" Model="Fit Shuttle"/>
+	<Model Category="Автомобили" Make="Honda" Model="FR-V"/>
+	<Model Category="Автомобили" Make="Honda" Model="Freed"/>
+	<Model Category="Автомобили" Make="Honda" Model="Grace"/>
+	<Model Category="Автомобили" Make="Honda" Model="HR-V"/>
+	<Model Category="Автомобили" Make="Honda" Model="Insight"/>
+	<Model Category="Автомобили" Make="Honda" Model="Inspire"/>
+	<Model Category="Автомобили" Make="Honda" Model="Integra"/>
+	<Model Category="Автомобили" Make="Honda" Model="Integra SJ"/>
+	<Model Category="Автомобили" Make="Honda" Model="Jade"/>
+	<Model Category="Автомобили" Make="Honda" Model="Jazz"/>
+	<Model Category="Автомобили" Make="Honda" Model="Jazz AA"/>
+	<Model Category="Автомобили" Make="Honda" Model="Lagreat"/>
+	<Model Category="Автомобили" Make="Honda" Model="Legend"/>
+	<Model Category="Автомобили" Make="Honda" Model="Life"/>
+	<Model Category="Автомобили" Make="Honda" Model="Logo"/>
+	<Model Category="Автомобили" Make="Honda" Model="MDX"/>
+	<Model Category="Автомобили" Make="Honda" Model="Mobilio"/>
+	<Model Category="Автомобили" Make="Honda" Model="N-One"/>
+	<Model Category="Автомобили" Make="Honda" Model="NSX"/>
+	<Model Category="Автомобили" Make="Honda" Model="Odyssey"/>
+	<Model Category="Автомобили" Make="Honda" Model="Orthia"/>
+	<Model Category="Автомобили" Make="Honda" Model="Partner"/>
+	<Model Category="Автомобили" Make="Honda" Model="Passport"/>
+	<Model Category="Автомобили" Make="Honda" Model="Pilot"/>
+	<Model Category="Автомобили" Make="Honda" Model="Prelude"/>
+	<Model Category="Автомобили" Make="Honda" Model="Quintet"/>
+	<Model Category="Автомобили" Make="Honda" Model="Rafaga"/>
+	<Model Category="Автомобили" Make="Honda" Model="Ridgeline"/>
+	<Model Category="Автомобили" Make="Honda" Model="S-MX"/>
+	<Model Category="Автомобили" Make="Honda" Model="S2000"/>
+	<Model Category="Автомобили" Make="Honda" Model="S660"/>
+	<Model Category="Автомобили" Make="Honda" Model="Saber"/>
+	<Model Category="Автомобили" Make="Honda" Model="Shuttle"/>
+	<Model Category="Автомобили" Make="Honda" Model="Stepwgn"/>
+	<Model Category="Автомобили" Make="Honda" Model="Stream"/>
+	<Model Category="Автомобили" Make="Honda" Model="Street"/>
+	<Model Category="Автомобили" Make="Honda" Model="That S"/>
+	<Model Category="Автомобили" Make="Honda" Model="Today"/>
+	<Model Category="Автомобили" Make="Honda" Model="Torneo"/>
+	<Model Category="Автомобили" Make="Honda" Model="Vamos"/>
+	<Model Category="Автомобили" Make="Honda" Model="Vezel"/>
+	<Model Category="Автомобили" Make="Honda" Model="Vigor"/>
+	<Model Category="Автомобили" Make="Honda" Model="Z"/>
+	<Model Category="Автомобили" Make="Honda" Model="Zest"/>
+	<Model Category="Автомобили" Make="Honda" Model="Другая"/>
+	<Model Category="Автомобили" Make="Huanghai" Model="Antelope"/>
+	<Model Category="Автомобили" Make="Huanghai" Model="Landscape"/>
+	<Model Category="Автомобили" Make="Huanghai" Model="Major"/>
+	<Model Category="Автомобили" Make="Huanghai" Model="Plutus"/>
+	<Model Category="Автомобили" Make="Huanghai" Model="Другая"/>
+	<Model Category="Автомобили" Make="Hummer" Model="H1"/>
+	<Model Category="Автомобили" Make="Hummer" Model="H2"/>
+	<Model Category="Автомобили" Make="Hummer" Model="H3"/>
+	<Model Category="Автомобили" Make="Hummer" Model="Другая"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Accent"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Atos"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Avante"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Azera"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Centennial"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Coupe"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Creta"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Dynasty"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Elantra"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Equus"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Excel"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Galloper"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Genesis"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Getz"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Grace"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Grand Santa Fe"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Grand Starex"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Grandeur"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="H-1"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="H-100"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="H-200"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="i10"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="i20"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="i30"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="i30 N"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="i40"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="ix20"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="ix35"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="ix55"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Kona"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Lantra"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Lavita"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Marcia"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Matrix"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Maxcruz"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Pony"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Porter"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="S-Coupe"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Santa Fe"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Santamo"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Solaris"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Sonata"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Starex"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Stellar"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Terracan"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Tiburon"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Trajet"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Tucson"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Tuscani"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Veloster"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Veracruz"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Verna"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="XG"/>
+	<Model Category="Автомобили" Make="Hyundai" Model="Другая"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="EX25"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="EX30"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="EX35"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="EX37"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="FX30"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="FX35"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="FX37"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="FX45"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="FX50"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="FX56"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="G20"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="G25"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="G35"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="G37"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="I30"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="I35"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="J30"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="JX"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="M25"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="M30"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="M35"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="M37"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="M45"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="M56"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="Q30"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="Q45"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="Q50"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="Q60"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="Q70"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="QX30"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="QX4"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="QX50"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="QX56"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="QX60"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="QX70"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="QX80"/>
+	<Model Category="Автомобили" Make="Infiniti" Model="Другая"/>
+	<Model Category="Автомобили" Make="Iran Khodro" Model="Pars"/>
+	<Model Category="Автомобили" Make="Iran Khodro" Model="Samand"/>
+	<Model Category="Автомобили" Make="Iran Khodro" Model="Soren"/>
+	<Model Category="Автомобили" Make="Iran Khodro" Model="Другая"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="Amigo"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="Ascender"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="Aska"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="Axiom"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="Bighorn"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="Campo"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="D-Max"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="Faster"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="Filly"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="Gemini"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="I-Mark"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="Impulse"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="Midi"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="MU"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="Piazza"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="Rodeo"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="Trooper"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="VehiCross"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="Wizard"/>
+	<Model Category="Автомобили" Make="Isuzu" Model="Другая"/>
+	<Model Category="Автомобили" Make="Iveco" Model="Daily"/>
+	<Model Category="Автомобили" Make="Iveco" Model="Другая"/>
+	<Model Category="Автомобили" Make="JAC" Model="J2"/>
+	<Model Category="Автомобили" Make="JAC" Model="J5"/>
+	<Model Category="Автомобили" Make="JAC" Model="Refine"/>
+	<Model Category="Автомобили" Make="JAC" Model="Rein"/>
+	<Model Category="Автомобили" Make="JAC" Model="S3"/>
+	<Model Category="Автомобили" Make="JAC" Model="S5"/>
+	<Model Category="Автомобили" Make="JAC" Model="Другая"/>
+	<Model Category="Автомобили" Make="Jaguar" Model="E-Pace"/>
+	<Model Category="Автомобили" Make="Jaguar" Model="E-type"/>
+	<Model Category="Автомобили" Make="Jaguar" Model="F-Pace"/>
+	<Model Category="Автомобили" Make="Jaguar" Model="F-type"/>
+	<Model Category="Автомобили" Make="Jaguar" Model="I-Pace"/>
+	<Model Category="Автомобили" Make="Jaguar" Model="S-type"/>
+	<Model Category="Автомобили" Make="Jaguar" Model="X-type"/>
+	<Model Category="Автомобили" Make="Jaguar" Model="XE"/>
+	<Model Category="Автомобили" Make="Jaguar" Model="XF"/>
+	<Model Category="Автомобили" Make="Jaguar" Model="XFR"/>
+	<Model Category="Автомобили" Make="Jaguar" Model="XJ"/>
+	<Model Category="Автомобили" Make="Jaguar" Model="XJ220"/>
+	<Model Category="Автомобили" Make="Jaguar" Model="XJR"/>
+	<Model Category="Автомобили" Make="Jaguar" Model="XJS"/>
+	<Model Category="Автомобили" Make="Jaguar" Model="XK"/>
+	<Model Category="Автомобили" Make="Jaguar" Model="XKR"/>
+	<Model Category="Автомобили" Make="Jaguar" Model="XKR-S"/>
+	<Model Category="Автомобили" Make="Jaguar" Model="Другая"/>
+	<Model Category="Автомобили" Make="Jeep" Model="Cherokee"/>
+	<Model Category="Автомобили" Make="Jeep" Model="CJ"/>
+	<Model Category="Автомобили" Make="Jeep" Model="Commander"/>
+	<Model Category="Автомобили" Make="Jeep" Model="Compass"/>
+	<Model Category="Автомобили" Make="Jeep" Model="Grand Cherokee"/>
+	<Model Category="Автомобили" Make="Jeep" Model="Liberty"/>
+	<Model Category="Автомобили" Make="Jeep" Model="Patriot"/>
+	<Model Category="Автомобили" Make="Jeep" Model="Renegade"/>
+	<Model Category="Автомобили" Make="Jeep" Model="Wrangler"/>
+	<Model Category="Автомобили" Make="Jeep" Model="Другая"/>
+	<Model Category="Автомобили" Make="Jinbei" Model="Haise"/>
+	<Model Category="Автомобили" Make="Jinbei" Model="Другая"/>
+	<Model Category="Автомобили" Make="JMC" Model="Baodian"/>
+	<Model Category="Автомобили" Make="JMC" Model="Другая"/>
+	<Model Category="Автомобили" Make="Jonway" Model="UFO"/>
+	<Model Category="Автомобили" Make="KIA" Model="Avella"/>
+	<Model Category="Автомобили" Make="KIA" Model="Besta"/>
+	<Model Category="Автомобили" Make="KIA" Model="Bongo"/>
+	<Model Category="Автомобили" Make="KIA" Model="Cadenza"/>
+	<Model Category="Автомобили" Make="KIA" Model="Capital"/>
+	<Model Category="Автомобили" Make="KIA" Model="Carens"/>
+	<Model Category="Автомобили" Make="KIA" Model="Carnival"/>
+	<Model Category="Автомобили" Make="KIA" Model="cee'd"/>
+	<Model Category="Автомобили" Make="KIA" Model="cee'd GT"/>
+	<Model Category="Автомобили" Make="KIA" Model="Cerato"/>
+	<Model Category="Автомобили" Make="KIA" Model="Clarus"/>
+	<Model Category="Автомобили" Make="KIA" Model="Concord"/>
+	<Model Category="Автомобили" Make="KIA" Model="Enterprise"/>
+	<Model Category="Автомобили" Make="KIA" Model="Forte"/>
+	<Model Category="Автомобили" Make="KIA" Model="Joice"/>
+	<Model Category="Автомобили" Make="KIA" Model="K"/>
+	<Model Category="Автомобили" Make="KIA" Model="K5"/>
+	<Model Category="Автомобили" Make="KIA" Model="K7"/>
+	<Model Category="Автомобили" Make="KIA" Model="K900"/>
+	<Model Category="Автомобили" Make="KIA" Model="Magentis"/>
+	<Model Category="Автомобили" Make="KIA" Model="Mohave"/>
+	<Model Category="Автомобили" Make="KIA" Model="Opirus"/>
+	<Model Category="Автомобили" Make="KIA" Model="Optima"/>
+	<Model Category="Автомобили" Make="KIA" Model="Picanto"/>
+	<Model Category="Автомобили" Make="KIA" Model="Picanto X-Line"/>
+	<Model Category="Автомобили" Make="KIA" Model="Potentia"/>
+	<Model Category="Автомобили" Make="KIA" Model="Pregio"/>
+	<Model Category="Автомобили" Make="KIA" Model="Pride"/>
+	<Model Category="Автомобили" Make="KIA" Model="ProCeed"/>
+	<Model Category="Автомобили" Make="KIA" Model="Quoris"/>
+	<Model Category="Автомобили" Make="KIA" Model="Ray"/>
+	<Model Category="Автомобили" Make="KIA" Model="Retona"/>
+	<Model Category="Автомобили" Make="KIA" Model="Rio"/>
+	<Model Category="Автомобили" Make="KIA" Model="Rio X-Line"/>
+	<Model Category="Автомобили" Make="KIA" Model="Sedona"/>
+	<Model Category="Автомобили" Make="KIA" Model="Sephia"/>
+	<Model Category="Автомобили" Make="KIA" Model="Shuma"/>
+	<Model Category="Автомобили" Make="KIA" Model="Sorento"/>
+	<Model Category="Автомобили" Make="KIA" Model="Sorento Prime"/>
+	<Model Category="Автомобили" Make="KIA" Model="Soul"/>
+	<Model Category="Автомобили" Make="KIA" Model="Spectra"/>
+	<Model Category="Автомобили" Make="KIA" Model="Sportage"/>
+	<Model Category="Автомобили" Make="KIA" Model="Stinger"/>
+	<Model Category="Автомобили" Make="KIA" Model="Towner"/>
+	<Model Category="Автомобили" Make="KIA" Model="Venga"/>
+	<Model Category="Автомобили" Make="KIA" Model="Visto"/>
+	<Model Category="Автомобили" Make="KIA" Model="X-Trek"/>
+	<Model Category="Автомобили" Make="KIA" Model="Другая"/>
+	<Model Category="Автомобили" Make="Koenigsegg" Model="Agera"/>
+	<Model Category="Автомобили" Make="Koenigsegg" Model="CC8S"/>
+	<Model Category="Автомобили" Make="Koenigsegg" Model="CCR"/>
+	<Model Category="Автомобили" Make="Koenigsegg" Model="CCX"/>
+	<Model Category="Автомобили" Make="Koenigsegg" Model="One:1"/>
+	<Model Category="Автомобили" Make="Koenigsegg" Model="Regera"/>
+	<Model Category="Автомобили" Make="Lamborghini" Model="Aventador"/>
+	<Model Category="Автомобили" Make="Lamborghini" Model="Countach"/>
+	<Model Category="Автомобили" Make="Lamborghini" Model="Diablo"/>
+	<Model Category="Автомобили" Make="Lamborghini" Model="Espada"/>
+	<Model Category="Автомобили" Make="Lamborghini" Model="Gallardo"/>
+	<Model Category="Автомобили" Make="Lamborghini" Model="Huracan"/>
+	<Model Category="Автомобили" Make="Lamborghini" Model="Jalpa"/>
+	<Model Category="Автомобили" Make="Lamborghini" Model="LM002"/>
+	<Model Category="Автомобили" Make="Lamborghini" Model="Murcielago"/>
+	<Model Category="Автомобили" Make="Lamborghini" Model="Reventon"/>
+	<Model Category="Автомобили" Make="Lamborghini" Model="Urus"/>
+	<Model Category="Автомобили" Make="Lamborghini" Model="Veneno"/>
+	<Model Category="Автомобили" Make="Lamborghini" Model="Другая"/>
+	<Model Category="Автомобили" Make="Lancia" Model="Dedra"/>
+	<Model Category="Автомобили" Make="Lancia" Model="Delta"/>
+	<Model Category="Автомобили" Make="Lancia" Model="Fulvia"/>
+	<Model Category="Автомобили" Make="Lancia" Model="Kappa"/>
+	<Model Category="Автомобили" Make="Lancia" Model="Lybra"/>
+	<Model Category="Автомобили" Make="Lancia" Model="Musa"/>
+	<Model Category="Автомобили" Make="Lancia" Model="Phedra"/>
+	<Model Category="Автомобили" Make="Lancia" Model="Prisma"/>
+	<Model Category="Автомобили" Make="Lancia" Model="Thema"/>
+	<Model Category="Автомобили" Make="Lancia" Model="Thesis"/>
+	<Model Category="Автомобили" Make="Lancia" Model="Trevi"/>
+	<Model Category="Автомобили" Make="Lancia" Model="Ypsilon"/>
+	<Model Category="Автомобили" Make="Lancia" Model="Zeta"/>
+	<Model Category="Автомобили" Make="Lancia" Model="Другая"/>
+	<Model Category="Автомобили" Make="Land Rover" Model="Defender"/>
+	<Model Category="Автомобили" Make="Land Rover" Model="Discovery"/>
+	<Model Category="Автомобили" Make="Land Rover" Model="Discovery Sport"/>
+	<Model Category="Автомобили" Make="Land Rover" Model="Freelander"/>
+	<Model Category="Автомобили" Make="Land Rover" Model="MGF"/>
+	<Model Category="Автомобили" Make="Land Rover" Model="Range Rover"/>
+	<Model Category="Автомобили" Make="Land Rover" Model="Range Rover Evoque"/>
+	<Model Category="Автомобили" Make="Land Rover" Model="Range Rover Sport"/>
+	<Model Category="Автомобили" Make="Land Rover" Model="Range Rover Velar"/>
+	<Model Category="Автомобили" Make="Land Rover" Model="Series III"/>
+	<Model Category="Автомобили" Make="Land Rover" Model="Series III"/>
+	<Model Category="Автомобили" Make="Land Rover" Model="Другая"/>
+	<Model Category="Автомобили" Make="Landwind" Model="Fashion"/>
+	<Model Category="Автомобили" Make="Landwind" Model="Forward"/>
+	<Model Category="Автомобили" Make="Landwind" Model="SUV"/>
+	<Model Category="Автомобили" Make="Landwind" Model="X5"/>
+	<Model Category="Автомобили" Make="Landwind" Model="X6"/>
+	<Model Category="Автомобили" Make="Landwind" Model="X7"/>
+	<Model Category="Автомобили" Make="Landwind" Model="X8"/>
+	<Model Category="Автомобили" Make="Landwind" Model="X9"/>
+	<Model Category="Автомобили" Make="Landwind" Model="Другая"/>
+	<Model Category="Автомобили" Make="LDV" Model="Convoy"/>
+	<Model Category="Автомобили" Make="LDV" Model="Maxus"/>
+	<Model Category="Автомобили" Make="LDV" Model="Другая"/>
+	<Model Category="Автомобили" Make="Lexus" Model="CT"/>
+	<Model Category="Автомобили" Make="Lexus" Model="ES"/>
+	<Model Category="Автомобили" Make="Lexus" Model="GS"/>
+	<Model Category="Автомобили" Make="Lexus" Model="GS F"/>
+	<Model Category="Автомобили" Make="Lexus" Model="GX"/>
+	<Model Category="Автомобили" Make="Lexus" Model="HS"/>
+	<Model Category="Автомобили" Make="Lexus" Model="IS"/>
+	<Model Category="Автомобили" Make="Lexus" Model="IS F"/>
+	<Model Category="Автомобили" Make="Lexus" Model="LC"/>
+	<Model Category="Автомобили" Make="Lexus" Model="LFA"/>
+	<Model Category="Автомобили" Make="Lexus" Model="LS"/>
+	<Model Category="Автомобили" Make="Lexus" Model="LX"/>
+	<Model Category="Автомобили" Make="Lexus" Model="NX"/>
+	<Model Category="Автомобили" Make="Lexus" Model="RC"/>
+	<Model Category="Автомобили" Make="Lexus" Model="RC F"/>
+	<Model Category="Автомобили" Make="Lexus" Model="RX"/>
+	<Model Category="Автомобили" Make="Lexus" Model="SC"/>
+	<Model Category="Автомобили" Make="Lexus" Model="UX"/>
+	<Model Category="Автомобили" Make="Lexus" Model="Другая"/>
+	<Model Category="Автомобили" Make="LIFAN" Model="Breez (520)"/>
+	<Model Category="Автомобили" Make="LIFAN" Model="Cebrium (720)"/>
+	<Model Category="Автомобили" Make="LIFAN" Model="Celliya (530)"/>
+	<Model Category="Автомобили" Make="LIFAN" Model="Murman"/>
+	<Model Category="Автомобили" Make="LIFAN" Model="Myway"/>
+	<Model Category="Автомобили" Make="LIFAN" Model="Smily (320)"/>
+	<Model Category="Автомобили" Make="LIFAN" Model="Solano"/>
+	<Model Category="Автомобили" Make="LIFAN" Model="X50"/>
+	<Model Category="Автомобили" Make="LIFAN" Model="X60"/>
+	<Model Category="Автомобили" Make="LIFAN" Model="X70"/>
+	<Model Category="Автомобили" Make="LIFAN" Model="Х80"/>
+	<Model Category="Автомобили" Make="LIFAN" Model="Другая"/>
+	<Model Category="Автомобили" Make="Lincoln" Model="Aviator"/>
+	<Model Category="Автомобили" Make="Lincoln" Model="Blackwood"/>
+	<Model Category="Автомобили" Make="Lincoln" Model="Continental"/>
+	<Model Category="Автомобили" Make="Lincoln" Model="LS"/>
+	<Model Category="Автомобили" Make="Lincoln" Model="Mark"/>
+	<Model Category="Автомобили" Make="Lincoln" Model="Mark LT"/>
+	<Model Category="Автомобили" Make="Lincoln" Model="Mark VII"/>
+	<Model Category="Автомобили" Make="Lincoln" Model="Mark VIII"/>
+	<Model Category="Автомобили" Make="Lincoln" Model="MKX"/>
+	<Model Category="Автомобили" Make="Lincoln" Model="MKZ"/>
+	<Model Category="Автомобили" Make="Lincoln" Model="Navigator"/>
+	<Model Category="Автомобили" Make="Lincoln" Model="Town Car"/>
+	<Model Category="Автомобили" Make="Lincoln" Model="Zephyr"/>
+	<Model Category="Автомобили" Make="Lincoln" Model="Другая"/>
+	<Model Category="Автомобили" Make="Lotus" Model="Eclat"/>
+	<Model Category="Автомобили" Make="Lotus" Model="Elan"/>
+	<Model Category="Автомобили" Make="Lotus" Model="Elise"/>
+	<Model Category="Автомобили" Make="Lotus" Model="Elise S"/>
+	<Model Category="Автомобили" Make="Lotus" Model="Elite"/>
+	<Model Category="Автомобили" Make="Lotus" Model="Esprit"/>
+	<Model Category="Автомобили" Make="Lotus" Model="Europa"/>
+	<Model Category="Автомобили" Make="Lotus" Model="Evora"/>
+	<Model Category="Автомобили" Make="Lotus" Model="Evora S"/>
+	<Model Category="Автомобили" Make="Lotus" Model="Excel"/>
+	<Model Category="Автомобили" Make="Lotus" Model="Exige"/>
+	<Model Category="Автомобили" Make="Lotus" Model="Exige S"/>
+	<Model Category="Автомобили" Make="Lotus" Model="Другая"/>
+	<Model Category="Автомобили" Make="Luxgen" Model="5 Sedan"/>
+	<Model Category="Автомобили" Make="Luxgen" Model="7 MPV"/>
+	<Model Category="Автомобили" Make="Luxgen" Model="7 SUV"/>
+	<Model Category="Автомобили" Make="Luxgen" Model="Другая"/>
+	<Model Category="Автомобили" Make="Mahindra" Model="Armada"/>
+	<Model Category="Автомобили" Make="Mahindra" Model="CJ"/>
+	<Model Category="Автомобили" Make="Mahindra" Model="Commander"/>
+	<Model Category="Автомобили" Make="Mahindra" Model="Marshal"/>
+	<Model Category="Автомобили" Make="Mahindra" Model="Другая"/>
+	<Model Category="Автомобили" Make="Marussia" Model="B1"/>
+	<Model Category="Автомобили" Make="Marussia" Model="B2"/>
+	<Model Category="Автомобили" Make="Marussia" Model="Другая"/>
+	<Model Category="Автомобили" Make="Maserati" Model="228"/>
+	<Model Category="Автомобили" Make="Maserati" Model="3200 GT"/>
+	<Model Category="Автомобили" Make="Maserati" Model="4200 GT"/>
+	<Model Category="Автомобили" Make="Maserati" Model="4300 GT Coupe"/>
+	<Model Category="Автомобили" Make="Maserati" Model="Barchetta Stradale"/>
+	<Model Category="Автомобили" Make="Maserati" Model="Biturbo"/>
+	<Model Category="Автомобили" Make="Maserati" Model="Bora"/>
+	<Model Category="Автомобили" Make="Maserati" Model="Chubasco"/>
+	<Model Category="Автомобили" Make="Maserati" Model="Coupe"/>
+	<Model Category="Автомобили" Make="Maserati" Model="Ghibli"/>
+	<Model Category="Автомобили" Make="Maserati" Model="GranCabrio"/>
+	<Model Category="Автомобили" Make="Maserati" Model="GranSport"/>
+	<Model Category="Автомобили" Make="Maserati" Model="GranTurismo"/>
+	<Model Category="Автомобили" Make="Maserati" Model="Indy"/>
+	<Model Category="Автомобили" Make="Maserati" Model="Karif"/>
+	<Model Category="Автомобили" Make="Maserati" Model="Khamsin"/>
+	<Model Category="Автомобили" Make="Maserati" Model="Kyalami"/>
+	<Model Category="Автомобили" Make="Maserati" Model="Levante"/>
+	<Model Category="Автомобили" Make="Maserati" Model="MC12"/>
+	<Model Category="Автомобили" Make="Maserati" Model="Merak"/>
+	<Model Category="Автомобили" Make="Maserati" Model="Mexico"/>
+	<Model Category="Автомобили" Make="Maserati" Model="Quattroporte"/>
+	<Model Category="Автомобили" Make="Maserati" Model="Royale"/>
+	<Model Category="Автомобили" Make="Maserati" Model="Shamal"/>
+	<Model Category="Автомобили" Make="Maserati" Model="Spyder"/>
+	<Model Category="Автомобили" Make="Maserati" Model="Другая"/>
+	<Model Category="Автомобили" Make="Maybach" Model="57"/>
+	<Model Category="Автомобили" Make="Maybach" Model="57S"/>
+	<Model Category="Автомобили" Make="Maybach" Model="62"/>
+	<Model Category="Автомобили" Make="Maybach" Model="62S"/>
+	<Model Category="Автомобили" Make="Maybach" Model="Другая"/>
+	<Model Category="Автомобили" Make="Mazda" Model="1000"/>
+	<Model Category="Автомобили" Make="Mazda" Model="121"/>
+	<Model Category="Автомобили" Make="Mazda" Model="1300"/>
+	<Model Category="Автомобили" Make="Mazda" Model="2"/>
+	<Model Category="Автомобили" Make="Mazda" Model="3"/>
+	<Model Category="Автомобили" Make="Mazda" Model="3 MPS"/>
+	<Model Category="Автомобили" Make="Mazda" Model="323"/>
+	<Model Category="Автомобили" Make="Mazda" Model="5"/>
+	<Model Category="Автомобили" Make="Mazda" Model="6"/>
+	<Model Category="Автомобили" Make="Mazda" Model="6 MPS"/>
+	<Model Category="Автомобили" Make="Mazda" Model="616"/>
+	<Model Category="Автомобили" Make="Mazda" Model="626"/>
+	<Model Category="Автомобили" Make="Mazda" Model="818"/>
+	<Model Category="Автомобили" Make="Mazda" Model="929"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Atenza"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Axela"/>
+	<Model Category="Автомобили" Make="Mazda" Model="AZ-Offroad"/>
+	<Model Category="Автомобили" Make="Mazda" Model="AZ-Wagon"/>
+	<Model Category="Автомобили" Make="Mazda" Model="B-Series"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Biante"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Bongo"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Bongo Friendee"/>
+	<Model Category="Автомобили" Make="Mazda" Model="BT-50"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Capella"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Carol"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Clef"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Cronos"/>
+	<Model Category="Автомобили" Make="Mazda" Model="CX-3"/>
+	<Model Category="Автомобили" Make="Mazda" Model="CX-5"/>
+	<Model Category="Автомобили" Make="Mazda" Model="CX-7"/>
+	<Model Category="Автомобили" Make="Mazda" Model="CX-8"/>
+	<Model Category="Автомобили" Make="Mazda" Model="CX-9"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Demio"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Efini"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Eunos"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Eunos Cosmo"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Familia"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Flair"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Lantis"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Laputa"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Levante"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Luce"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Millenia"/>
+	<Model Category="Автомобили" Make="Mazda" Model="MPV"/>
+	<Model Category="Автомобили" Make="Mazda" Model="MX-3"/>
+	<Model Category="Автомобили" Make="Mazda" Model="MX-5"/>
+	<Model Category="Автомобили" Make="Mazda" Model="MX-6"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Navajo"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Premacy"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Proceed"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Proceed Marvie"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Protege"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Revue"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Roadster"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Rustler"/>
+	<Model Category="Автомобили" Make="Mazda" Model="RX-7"/>
+	<Model Category="Автомобили" Make="Mazda" Model="RX-8"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Scrum"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Sentia"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Spiano"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Tribute"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Vantrend"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Verisa"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Xedos 6"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Xedos 9"/>
+	<Model Category="Автомобили" Make="Mazda" Model="Другая"/>
+	<Model Category="Автомобили" Make="McLaren" Model="540C"/>
+	<Model Category="Автомобили" Make="McLaren" Model="570GT"/>
+	<Model Category="Автомобили" Make="McLaren" Model="570S"/>
+	<Model Category="Автомобили" Make="McLaren" Model="650S"/>
+	<Model Category="Автомобили" Make="McLaren" Model="675LT"/>
+	<Model Category="Автомобили" Make="McLaren" Model="720S"/>
+	<Model Category="Автомобили" Make="McLaren" Model="F1"/>
+	<Model Category="Автомобили" Make="McLaren" Model="MP4-12C"/>
+	<Model Category="Автомобили" Make="McLaren" Model="P1"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="190 (W201)"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="190 SL"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="A-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="A-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="AMG GT"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="B-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="C-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="C-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="Citan"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="CL-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="CL-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="CLA-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="CLA-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="CLC-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="CLK-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="CLK-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="CLS-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="CLS-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="E-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="E-класс All-Terrain"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="E-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="G-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="G-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="GL-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="GL-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="GLA-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="GLA-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="GLC-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="GLC-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="GLC-класс AMG Coupe"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="GLC-класс Coupe"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="GLE-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="GLE-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="GLE-класс AMG Coupe"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="GLE-класс Coupe"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="GLK-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="GLS-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="GLS-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="M-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="M-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="Maybach S-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="MB100"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="Pullman"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="R-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="R-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="S-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="S-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="SL-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="SL-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="SLC-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="SLC-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="SLK-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="SLK-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="SLR McLaren"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="SLS-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="SLS-класс AMG"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="Sprinter"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="Sprinter Classic"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="T1"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="T2"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="V-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="Vaneo"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="Vario"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="Viano"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="Vito"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="W108"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="W110"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="W111"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="W114"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="W115"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="W120"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="W123"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="W124"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="W128"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="W136"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="W189"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="X-класс"/>
+	<Model Category="Автомобили" Make="Mercedes-Benz" Model="Другая"/>
+	<Model Category="Автомобили" Make="Mercury" Model="Capri"/>
+	<Model Category="Автомобили" Make="Mercury" Model="Cougar"/>
+	<Model Category="Автомобили" Make="Mercury" Model="Grand Marquis"/>
+	<Model Category="Автомобили" Make="Mercury" Model="Marauder"/>
+	<Model Category="Автомобили" Make="Mercury" Model="Mariner"/>
+	<Model Category="Автомобили" Make="Mercury" Model="Marquis"/>
+	<Model Category="Автомобили" Make="Mercury" Model="Milan"/>
+	<Model Category="Автомобили" Make="Mercury" Model="Montego"/>
+	<Model Category="Автомобили" Make="Mercury" Model="Monterey"/>
+	<Model Category="Автомобили" Make="Mercury" Model="Mountaineer"/>
+	<Model Category="Автомобили" Make="Mercury" Model="Mystique"/>
+	<Model Category="Автомобили" Make="Mercury" Model="Sable"/>
+	<Model Category="Автомобили" Make="Mercury" Model="Topaz"/>
+	<Model Category="Автомобили" Make="Mercury" Model="Tracer"/>
+	<Model Category="Автомобили" Make="Mercury" Model="Villager"/>
+	<Model Category="Автомобили" Make="Mercury" Model="Другая"/>
+	<Model Category="Автомобили" Make="Metrocab" Model="Taxi"/>
+	<Model Category="Автомобили" Make="Metrocab" Model="Другая"/>
+	<Model Category="Автомобили" Make="MG" Model="350"/>
+	<Model Category="Автомобили" Make="MG" Model="550"/>
+	<Model Category="Автомобили" Make="MG" Model="F"/>
+	<Model Category="Автомобили" Make="MG" Model="MGB"/>
+	<Model Category="Автомобили" Make="MG" Model="TF"/>
+	<Model Category="Автомобили" Make="MG" Model="XPower SV"/>
+	<Model Category="Автомобили" Make="MG" Model="ZR"/>
+	<Model Category="Автомобили" Make="MG" Model="ZS"/>
+	<Model Category="Автомобили" Make="MG" Model="ZT"/>
+	<Model Category="Автомобили" Make="MG" Model="Другая"/>
+	<Model Category="Автомобили" Make="MINI" Model="Cooper"/>
+	<Model Category="Автомобили" Make="MINI" Model="Cooper Clubman"/>
+	<Model Category="Автомобили" Make="MINI" Model="Cooper Clubvan"/>
+	<Model Category="Автомобили" Make="MINI" Model="Cooper Countryman"/>
+	<Model Category="Автомобили" Make="MINI" Model="Cooper Paceman"/>
+	<Model Category="Автомобили" Make="MINI" Model="Cooper S"/>
+	<Model Category="Автомобили" Make="MINI" Model="Cooper S Clubman"/>
+	<Model Category="Автомобили" Make="MINI" Model="Cooper S Countryman"/>
+	<Model Category="Автомобили" Make="MINI" Model="Cooper S Paceman"/>
+	<Model Category="Автомобили" Make="MINI" Model="Cooper SD Countryman"/>
+	<Model Category="Автомобили" Make="MINI" Model="John Cooper Works"/>
+	<Model Category="Автомобили" Make="MINI" Model="John Cooper Works Clubman"/>
+	<Model Category="Автомобили" Make="MINI" Model="John Cooper Works Countryman"/>
+	<Model Category="Автомобили" Make="MINI" Model="John Cooper Works Paceman"/>
+	<Model Category="Автомобили" Make="MINI" Model="One"/>
+	<Model Category="Автомобили" Make="MINI" Model="One Clubman"/>
+	<Model Category="Автомобили" Make="MINI" Model="One Clubvan"/>
+	<Model Category="Автомобили" Make="MINI" Model="One Countryman"/>
+	<Model Category="Автомобили" Make="MINI" Model="Другая"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="3000 GT"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Airtrek"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Aspire"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="ASX"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Carisma"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Celeste"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Challenger"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Chariot"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Colt"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Cordia"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Debonair"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Delica"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Delica D2"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Delica D3"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Delica D5"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Diamante"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Dingo"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Dion"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Eclipse"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Eclipse Cross"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="EK Space"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="EK Wagon"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Emeraude"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Endeavor"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Eterna"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Expo LRV"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="FTO"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Galant"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Grandis"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="GTO"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="i"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="i-MiEV"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Jeep"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="L200"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="L300"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="L400"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Lancer"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Lancer Cargo"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Lancer Evolution"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Legnum"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Libero"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Minica"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Minicab"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Mirage"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Montero"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Montero Sport"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Outlander"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Pajero"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Pajero iO"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Pajero Junior"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Pajero Mini"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Pajero Pinin"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Pajero Sport"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Pistachio"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Proudia"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Raider"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="RVR"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Santamo"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Sapporo"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Sigma"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Space Gear"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Space Runner"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Space Star"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Space Wagon"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Starion"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Toppo"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Town BOX"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Tredia"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Xpander"/>
+	<Model Category="Автомобили" Make="Mitsubishi" Model="Другая"/>
+	<Model Category="Автомобили" Make="Mitsuoka" Model="Galue"/>
+	<Model Category="Автомобили" Make="Mitsuoka" Model="Le-Seyde"/>
+	<Model Category="Автомобили" Make="Mitsuoka" Model="Nouera"/>
+	<Model Category="Автомобили" Make="Mitsuoka" Model="Ryoga"/>
+	<Model Category="Автомобили" Make="Mitsuoka" Model="Другая"/>
+	<Model Category="Автомобили" Make="Morgan" Model="Aero"/>
+	<Model Category="Автомобили" Make="Morgan" Model="Plus 4"/>
+	<Model Category="Автомобили" Make="Morgan" Model="Plus 8"/>
+	<Model Category="Автомобили" Make="Morgan" Model="V6"/>
+	<Model Category="Автомобили" Make="Morgan" Model="Другая"/>
+	<Model Category="Автомобили" Make="Morris" Model="Marina"/>
+	<Model Category="Автомобили" Make="Morris" Model="Другая"/>
+	<Model Category="Автомобили" Make="Nissan" Model="100NX"/>
+	<Model Category="Автомобили" Make="Nissan" Model="180SX"/>
+	<Model Category="Автомобили" Make="Nissan" Model="200SX"/>
+	<Model Category="Автомобили" Make="Nissan" Model="240SX"/>
+	<Model Category="Автомобили" Make="Nissan" Model="280ZX"/>
+	<Model Category="Автомобили" Make="Nissan" Model="300ZX"/>
+	<Model Category="Автомобили" Make="Nissan" Model="350Z"/>
+	<Model Category="Автомобили" Make="Nissan" Model="370Z"/>
+	<Model Category="Автомобили" Make="Nissan" Model="AD"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Almera"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Almera Classic"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Almera Tino"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Altima"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Armada"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Auster"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Avenir"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Bassara"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Bluebird"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Bluebird Sylphy"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Caravan"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Cedric"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Cefiro"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Cherry"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Cima"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Clipper"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Crew"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Cube"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Datsun"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Dayz"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Dualis"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Elgrand"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Expert"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Fairlady"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Figaro"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Frontier"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Fuga"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Gloria"/>
+	<Model Category="Автомобили" Make="Nissan" Model="GT-R"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Interstar"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Juke"/>
+	<Model Category="Автомобили" Make="Nissan" Model="King Cab"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Kix"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Kubistar"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Lafesta"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Langley"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Largo"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Laurel"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Leaf"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Leopard"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Liberty"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Lucino"/>
+	<Model Category="Автомобили" Make="Nissan" Model="March"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Maxima"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Micra"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Mistral"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Moco"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Murano"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Navara"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Note"/>
+	<Model Category="Автомобили" Make="Nissan" Model="NP300"/>
+	<Model Category="Автомобили" Make="Nissan" Model="NV200"/>
+	<Model Category="Автомобили" Make="Nissan" Model="NV350 Caravan"/>
+	<Model Category="Автомобили" Make="Nissan" Model="NX Coupe"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Otti"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Pathfinder"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Patrol"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Pick UP"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Pino"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Pixo"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Prairie"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Presage"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Presea"/>
+	<Model Category="Автомобили" Make="Nissan" Model="President"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Primastar"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Primera"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Pulsar"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Qashqai"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Qashqai+2"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Quest"/>
+	<Model Category="Автомобили" Make="Nissan" Model="R Nessa"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Rasheen"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Rogue"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Safari"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Sentra"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Serena"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Silvia"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Skyline"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Stagea"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Stanza"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Sunny"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Teana"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Terrano"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Tiida"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Tino"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Titan"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Urvan"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Vanette"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Versa"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Wingroad"/>
+	<Model Category="Автомобили" Make="Nissan" Model="X-Terra"/>
+	<Model Category="Автомобили" Make="Nissan" Model="X-Trail"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Другая"/>
+	<Model Category="Автомобили" Make="Nissan" Model="Latio"/>
+	<Model Category="Автомобили" Make="Noble" Model="M10"/>
+	<Model Category="Автомобили" Make="Noble" Model="M12"/>
+	<Model Category="Автомобили" Make="Noble" Model="M14"/>
+	<Model Category="Автомобили" Make="Noble" Model="M15"/>
+	<Model Category="Автомобили" Make="Noble" Model="M400"/>
+	<Model Category="Автомобили" Make="Noble" Model="M600"/>
+	<Model Category="Автомобили" Make="Noble" Model="Другая"/>
+	<Model Category="Автомобили" Make="Oldsmobile" Model="Achieva"/>
+	<Model Category="Автомобили" Make="Oldsmobile" Model="Alero"/>
+	<Model Category="Автомобили" Make="Oldsmobile" Model="Aurora"/>
+	<Model Category="Автомобили" Make="Oldsmobile" Model="Bravada"/>
+	<Model Category="Автомобили" Make="Oldsmobile" Model="Cutlass"/>
+	<Model Category="Автомобили" Make="Oldsmobile" Model="Cutlass Supreme"/>
+	<Model Category="Автомобили" Make="Oldsmobile" Model="Eighty-Eight"/>
+	<Model Category="Автомобили" Make="Oldsmobile" Model="Intrigue"/>
+	<Model Category="Автомобили" Make="Oldsmobile" Model="Ninety-Eight"/>
+	<Model Category="Автомобили" Make="Oldsmobile" Model="Silhouette"/>
+	<Model Category="Автомобили" Make="Oldsmobile" Model="Другая"/>
+	<Model Category="Автомобили" Make="Opel" Model="Admiral"/>
+	<Model Category="Автомобили" Make="Opel" Model="Agila"/>
+	<Model Category="Автомобили" Make="Opel" Model="Ampera"/>
+	<Model Category="Автомобили" Make="Opel" Model="Antara"/>
+	<Model Category="Автомобили" Make="Opel" Model="Ascona"/>
+	<Model Category="Автомобили" Make="Opel" Model="Astra"/>
+	<Model Category="Автомобили" Make="Opel" Model="Astra Family"/>
+	<Model Category="Автомобили" Make="Opel" Model="Astra GTC"/>
+	<Model Category="Автомобили" Make="Opel" Model="Astra OPC"/>
+	<Model Category="Автомобили" Make="Opel" Model="Calibra"/>
+	<Model Category="Автомобили" Make="Opel" Model="Campo"/>
+	<Model Category="Автомобили" Make="Opel" Model="Combo"/>
+	<Model Category="Автомобили" Make="Opel" Model="Commodore"/>
+	<Model Category="Автомобили" Make="Opel" Model="Corsa"/>
+	<Model Category="Автомобили" Make="Opel" Model="Corsa OPC"/>
+	<Model Category="Автомобили" Make="Opel" Model="Crossland X"/>
+	<Model Category="Автомобили" Make="Opel" Model="Diplomat"/>
+	<Model Category="Автомобили" Make="Opel" Model="Frontera"/>
+	<Model Category="Автомобили" Make="Opel" Model="Grandland X"/>
+	<Model Category="Автомобили" Make="Opel" Model="GT"/>
+	<Model Category="Автомобили" Make="Opel" Model="Insignia"/>
+	<Model Category="Автомобили" Make="Opel" Model="Insignia OPC"/>
+	<Model Category="Автомобили" Make="Opel" Model="Kadett"/>
+	<Model Category="Автомобили" Make="Opel" Model="Kapitan"/>
+	<Model Category="Автомобили" Make="Opel" Model="Manta"/>
+	<Model Category="Автомобили" Make="Opel" Model="Meriva"/>
+	<Model Category="Автомобили" Make="Opel" Model="Mokka"/>
+	<Model Category="Автомобили" Make="Opel" Model="Monterey"/>
+	<Model Category="Автомобили" Make="Opel" Model="Monza"/>
+	<Model Category="Автомобили" Make="Opel" Model="Movano"/>
+	<Model Category="Автомобили" Make="Opel" Model="Olympia"/>
+	<Model Category="Автомобили" Make="Opel" Model="Omega"/>
+	<Model Category="Автомобили" Make="Opel" Model="Rekord"/>
+	<Model Category="Автомобили" Make="Opel" Model="Senator"/>
+	<Model Category="Автомобили" Make="Opel" Model="Signum"/>
+	<Model Category="Автомобили" Make="Opel" Model="Sintra"/>
+	<Model Category="Автомобили" Make="Opel" Model="Speedster"/>
+	<Model Category="Автомобили" Make="Opel" Model="Super 6"/>
+	<Model Category="Автомобили" Make="Opel" Model="Tigra"/>
+	<Model Category="Автомобили" Make="Opel" Model="Vectra"/>
+	<Model Category="Автомобили" Make="Opel" Model="Vectra OPC"/>
+	<Model Category="Автомобили" Make="Opel" Model="Vita"/>
+	<Model Category="Автомобили" Make="Opel" Model="Vivaro"/>
+	<Model Category="Автомобили" Make="Opel" Model="Zafira"/>
+	<Model Category="Автомобили" Make="Opel" Model="Zafira OPC"/>
+	<Model Category="Автомобили" Make="Opel" Model="Другая"/>
+	<Model Category="Автомобили" Make="Pagani" Model="Huayra"/>
+	<Model Category="Автомобили" Make="Pagani" Model="Zonda"/>
+	<Model Category="Автомобили" Make="Pagani" Model="Другая"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="1007"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="104"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="106"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="107"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="2008"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="203"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="204"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="205"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="206"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="207"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="208"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="3008"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="301"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="304"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="305"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="306"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="307"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="308"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="309"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="4007"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="4008"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="405"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="406"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="407"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="408"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="5008"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="504"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="505"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="508"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="604"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="605"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="607"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="806"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="807"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="Bipper"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="Boxer"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="Expert"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="J5"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="Partner"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="RCZ"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="Traveller"/>
+	<Model Category="Автомобили" Make="Peugeot" Model="Другая"/>
+	<Model Category="Автомобили" Make="Plymouth" Model="Acclaim"/>
+	<Model Category="Автомобили" Make="Plymouth" Model="Breeze"/>
+	<Model Category="Автомобили" Make="Plymouth" Model="Caravelle"/>
+	<Model Category="Автомобили" Make="Plymouth" Model="Fury"/>
+	<Model Category="Автомобили" Make="Plymouth" Model="Grand Voyager"/>
+	<Model Category="Автомобили" Make="Plymouth" Model="Laser"/>
+	<Model Category="Автомобили" Make="Plymouth" Model="Neon"/>
+	<Model Category="Автомобили" Make="Plymouth" Model="Prowler"/>
+	<Model Category="Автомобили" Make="Plymouth" Model="Sundance"/>
+	<Model Category="Автомобили" Make="Plymouth" Model="Valiant"/>
+	<Model Category="Автомобили" Make="Plymouth" Model="Voyager"/>
+	<Model Category="Автомобили" Make="Plymouth" Model="Другая"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="6000"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="Aztec"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="Bonneville"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="Fiero"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="Firebird"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="G4"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="G5"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="G6"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="G8"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="Grand AM"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="Grand Prix"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="GTO"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="LeMans"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="Montana"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="Parisienne"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="Phoenix"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="Solstice"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="Sunbird"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="Sunfire"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="Tempest"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="Torrent"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="Trans Sport"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="Vibe"/>
+	<Model Category="Автомобили" Make="Pontiac" Model="Другая"/>
+	<Model Category="Автомобили" Make="Porsche" Model="356"/>
+	<Model Category="Автомобили" Make="Porsche" Model="718 Boxster"/>
+	<Model Category="Автомобили" Make="Porsche" Model="718 Boxster S"/>
+	<Model Category="Автомобили" Make="Porsche" Model="718 Cayman"/>
+	<Model Category="Автомобили" Make="Porsche" Model="718 Cayman S"/>
+	<Model Category="Автомобили" Make="Porsche" Model="911 Carrera"/>
+	<Model Category="Автомобили" Make="Porsche" Model="911 Carrera 4"/>
+	<Model Category="Автомобили" Make="Porsche" Model="911 Carrera 4S"/>
+	<Model Category="Автомобили" Make="Porsche" Model="911 Carrera S"/>
+	<Model Category="Автомобили" Make="Porsche" Model="911 GT2"/>
+	<Model Category="Автомобили" Make="Porsche" Model="911 GT2 RS"/>
+	<Model Category="Автомобили" Make="Porsche" Model="911 GT3"/>
+	<Model Category="Автомобили" Make="Porsche" Model="911 GT3 RS"/>
+	<Model Category="Автомобили" Make="Porsche" Model="911 GT3 RS 4.0"/>
+	<Model Category="Автомобили" Make="Porsche" Model="911 Targa 4"/>
+	<Model Category="Автомобили" Make="Porsche" Model="911 Targa 4S"/>
+	<Model Category="Автомобили" Make="Porsche" Model="911 Turbo"/>
+	<Model Category="Автомобили" Make="Porsche" Model="911 Turbo S"/>
+	<Model Category="Автомобили" Make="Porsche" Model="914"/>
+	<Model Category="Автомобили" Make="Porsche" Model="918 Spyder"/>
+	<Model Category="Автомобили" Make="Porsche" Model="924"/>
+	<Model Category="Автомобили" Make="Porsche" Model="928"/>
+	<Model Category="Автомобили" Make="Porsche" Model="944"/>
+	<Model Category="Автомобили" Make="Porsche" Model="959"/>
+	<Model Category="Автомобили" Make="Porsche" Model="968"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Boxster"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Boxster S"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Boxster Spyder"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Carrera GT"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Cayenne"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Cayenne Coupe"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Cayenne GTS"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Cayenne S"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Cayenne Turbo"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Cayenne Turbo S"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Cayman"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Cayman S"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Macan"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Macan GTS"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Macan S"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Macan Turbo"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Panamera"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Panamera 4"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Panamera 4S"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Panamera GTS"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Panamera S"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Panamera Turbo"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Panamera Turbo S"/>
+	<Model Category="Автомобили" Make="Porsche" Model="Другая"/>
+	<Model Category="Автомобили" Make="Proton" Model="400 Series"/>
+	<Model Category="Автомобили" Make="Proton" Model="Juara"/>
+	<Model Category="Автомобили" Make="Proton" Model="Perdana"/>
+	<Model Category="Автомобили" Make="Proton" Model="Persona"/>
+	<Model Category="Автомобили" Make="Proton" Model="Saga"/>
+	<Model Category="Автомобили" Make="Proton" Model="Saloon"/>
+	<Model Category="Автомобили" Make="Proton" Model="Waja"/>
+	<Model Category="Автомобили" Make="Proton" Model="Другая"/>
+	<Model Category="Автомобили" Make="PUCH" Model="G-modell"/>
+	<Model Category="Автомобили" Make="PUCH" Model="Pinzgauer"/>
+	<Model Category="Автомобили" Make="PUCH" Model="Другая"/>
+	<Model Category="Автомобили" Make="Ravon" Model="Gentra"/>
+	<Model Category="Автомобили" Make="Ravon" Model="Matiz"/>
+	<Model Category="Автомобили" Make="Ravon" Model="Nexia"/>
+	<Model Category="Автомобили" Make="Ravon" Model="R2"/>
+	<Model Category="Автомобили" Make="Ravon" Model="R4"/>
+	<Model Category="Автомобили" Make="Renault" Model="11"/>
+	<Model Category="Автомобили" Make="Renault" Model="12"/>
+	<Model Category="Автомобили" Make="Renault" Model="14"/>
+	<Model Category="Автомобили" Make="Renault" Model="15"/>
+	<Model Category="Автомобили" Make="Renault" Model="16"/>
+	<Model Category="Автомобили" Make="Renault" Model="17"/>
+	<Model Category="Автомобили" Make="Renault" Model="18"/>
+	<Model Category="Автомобили" Make="Renault" Model="19"/>
+	<Model Category="Автомобили" Make="Renault" Model="20"/>
+	<Model Category="Автомобили" Make="Renault" Model="21"/>
+	<Model Category="Автомобили" Make="Renault" Model="25"/>
+	<Model Category="Автомобили" Make="Renault" Model="30"/>
+	<Model Category="Автомобили" Make="Renault" Model="4"/>
+	<Model Category="Автомобили" Make="Renault" Model="5"/>
+	<Model Category="Автомобили" Make="Renault" Model="6"/>
+	<Model Category="Автомобили" Make="Renault" Model="9"/>
+	<Model Category="Автомобили" Make="Renault" Model="Arkana"/>
+	<Model Category="Автомобили" Make="Renault" Model="Avantime"/>
+	<Model Category="Автомобили" Make="Renault" Model="Clio"/>
+	<Model Category="Автомобили" Make="Renault" Model="Clio RS"/>
+	<Model Category="Автомобили" Make="Renault" Model="Dokker"/>
+	<Model Category="Автомобили" Make="Renault" Model="Dokker Stepway"/>
+	<Model Category="Автомобили" Make="Renault" Model="Duster"/>
+	<Model Category="Автомобили" Make="Renault" Model="Espace"/>
+	<Model Category="Автомобили" Make="Renault" Model="Estafette"/>
+	<Model Category="Автомобили" Make="Renault" Model="Fluence"/>
+	<Model Category="Автомобили" Make="Renault" Model="Fuego"/>
+	<Model Category="Автомобили" Make="Renault" Model="Grand Scenic"/>
+	<Model Category="Автомобили" Make="Renault" Model="Kadjar"/>
+	<Model Category="Автомобили" Make="Renault" Model="Kangoo"/>
+	<Model Category="Автомобили" Make="Renault" Model="Kaptur"/>
+	<Model Category="Автомобили" Make="Renault" Model="Koleos"/>
+	<Model Category="Автомобили" Make="Renault" Model="Laguna"/>
+	<Model Category="Автомобили" Make="Renault" Model="Latitude"/>
+	<Model Category="Автомобили" Make="Renault" Model="Logan"/>
+	<Model Category="Автомобили" Make="Renault" Model="Logan Stepway"/>
+	<Model Category="Автомобили" Make="Renault" Model="Master"/>
+	<Model Category="Автомобили" Make="Renault" Model="Medallion"/>
+	<Model Category="Автомобили" Make="Renault" Model="Megane"/>
+	<Model Category="Автомобили" Make="Renault" Model="Megane RS"/>
+	<Model Category="Автомобили" Make="Renault" Model="Modus"/>
+	<Model Category="Автомобили" Make="Renault" Model="Rapid"/>
+	<Model Category="Автомобили" Make="Renault" Model="Rodeo"/>
+	<Model Category="Автомобили" Make="Renault" Model="Safrane"/>
+	<Model Category="Автомобили" Make="Renault" Model="Sandero"/>
+	<Model Category="Автомобили" Make="Renault" Model="Sandero Stepway"/>
+	<Model Category="Автомобили" Make="Renault" Model="Scenic"/>
+	<Model Category="Автомобили" Make="Renault" Model="Sport Spider"/>
+	<Model Category="Автомобили" Make="Renault" Model="Super 5"/>
+	<Model Category="Автомобили" Make="Renault" Model="Symbol"/>
+	<Model Category="Автомобили" Make="Renault" Model="Talisman"/>
+	<Model Category="Автомобили" Make="Renault" Model="Trafic"/>
+	<Model Category="Автомобили" Make="Renault" Model="Twingo"/>
+	<Model Category="Автомобили" Make="Renault" Model="Twizy"/>
+	<Model Category="Автомобили" Make="Renault" Model="Vel Satis"/>
+	<Model Category="Автомобили" Make="Renault" Model="Wind"/>
+	<Model Category="Автомобили" Make="Renault" Model="Другая"/>
+	<Model Category="Автомобили" Make="Rolls-Royce" Model="20/25"/>
+	<Model Category="Автомобили" Make="Rolls-Royce" Model="Corniche Cabrio"/>
+	<Model Category="Автомобили" Make="Rolls-Royce" Model="Cullinan"/>
+	<Model Category="Автомобили" Make="Rolls-Royce" Model="Ghost"/>
+	<Model Category="Автомобили" Make="Rolls-Royce" Model="Park Ward"/>
+	<Model Category="Автомобили" Make="Rolls-Royce" Model="Phantom"/>
+	<Model Category="Автомобили" Make="Rolls-Royce" Model="Silver Cloud"/>
+	<Model Category="Автомобили" Make="Rolls-Royce" Model="Silver Seraph"/>
+	<Model Category="Автомобили" Make="Rolls-Royce" Model="Silver Shadow"/>
+	<Model Category="Автомобили" Make="Rolls-Royce" Model="Silver Spirit"/>
+	<Model Category="Автомобили" Make="Rolls-Royce" Model="Silver Spur"/>
+	<Model Category="Автомобили" Make="Rolls-Royce" Model="Wraith"/>
+	<Model Category="Автомобили" Make="Rolls-Royce" Model="Другая"/>
+	<Model Category="Автомобили" Make="Ronart" Model="Lightning"/>
+	<Model Category="Автомобили" Make="Ronart" Model="Другая"/>
+	<Model Category="Автомобили" Make="Rover" Model="100"/>
+	<Model Category="Автомобили" Make="Rover" Model="200"/>
+	<Model Category="Автомобили" Make="Rover" Model="25"/>
+	<Model Category="Автомобили" Make="Rover" Model="400"/>
+	<Model Category="Автомобили" Make="Rover" Model="45"/>
+	<Model Category="Автомобили" Make="Rover" Model="600"/>
+	<Model Category="Автомобили" Make="Rover" Model="75"/>
+	<Model Category="Автомобили" Make="Rover" Model="800"/>
+	<Model Category="Автомобили" Make="Rover" Model="Maestro"/>
+	<Model Category="Автомобили" Make="Rover" Model="MGF"/>
+	<Model Category="Автомобили" Make="Rover" Model="Mini MK"/>
+	<Model Category="Автомобили" Make="Rover" Model="Montego"/>
+	<Model Category="Автомобили" Make="Rover" Model="SD1"/>
+	<Model Category="Автомобили" Make="Rover" Model="Streetwise"/>
+	<Model Category="Автомобили" Make="Rover" Model="Другая"/>
+	<Model Category="Автомобили" Make="Saab" Model="9-2X"/>
+	<Model Category="Автомобили" Make="Saab" Model="9-3"/>
+	<Model Category="Автомобили" Make="Saab" Model="9-4X"/>
+	<Model Category="Автомобили" Make="Saab" Model="9-5"/>
+	<Model Category="Автомобили" Make="Saab" Model="9-7X"/>
+	<Model Category="Автомобили" Make="Saab" Model="90"/>
+	<Model Category="Автомобили" Make="Saab" Model="900"/>
+	<Model Category="Автомобили" Make="Saab" Model="9000"/>
+	<Model Category="Автомобили" Make="Saab" Model="95"/>
+	<Model Category="Автомобили" Make="Saab" Model="96"/>
+	<Model Category="Автомобили" Make="Saab" Model="99"/>
+	<Model Category="Автомобили" Make="Saab" Model="Lancia 600"/>
+	<Model Category="Автомобили" Make="Saab" Model="Другая"/>
+	<Model Category="Автомобили" Make="Saleen" Model="S7"/>
+	<Model Category="Автомобили" Make="Saleen" Model="Другая"/>
+	<Model Category="Автомобили" Make="Saturn" Model="Astra"/>
+	<Model Category="Автомобили" Make="Saturn" Model="Aura"/>
+	<Model Category="Автомобили" Make="Saturn" Model="ION"/>
+	<Model Category="Автомобили" Make="Saturn" Model="LS"/>
+	<Model Category="Автомобили" Make="Saturn" Model="LW"/>
+	<Model Category="Автомобили" Make="Saturn" Model="Outlook"/>
+	<Model Category="Автомобили" Make="Saturn" Model="Relay"/>
+	<Model Category="Автомобили" Make="Saturn" Model="SC"/>
+	<Model Category="Автомобили" Make="Saturn" Model="Sky"/>
+	<Model Category="Автомобили" Make="Saturn" Model="SL"/>
+	<Model Category="Автомобили" Make="Saturn" Model="SW"/>
+	<Model Category="Автомобили" Make="Saturn" Model="VUE"/>
+	<Model Category="Автомобили" Make="Saturn" Model="Другая"/>
+	<Model Category="Автомобили" Make="Scion" Model="tC"/>
+	<Model Category="Автомобили" Make="Scion" Model="xA"/>
+	<Model Category="Автомобили" Make="Scion" Model="xB"/>
+	<Model Category="Автомобили" Make="Scion" Model="xD"/>
+	<Model Category="Автомобили" Make="Scion" Model="Другая"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Alhambra"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Altea"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Altea Freetrack"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Altea XL"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Arona"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Arosa"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Ateca"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Cordoba"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Exeo"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Fura"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Ibiza"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Ibiza FR"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Inca"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Leon"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Leon FR"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Leon X-PERIENCE"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Malaga"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Marbella"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Mii"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Ronda"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Terra"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Toledo"/>
+	<Model Category="Автомобили" Make="SEAT" Model="Другая"/>
+	<Model Category="Автомобили" Make="Shuanghuan" Model="Sceo"/>
+	<Model Category="Автомобили" Make="Shuanghuan" Model="Другая"/>
+	<Model Category="Автомобили" Make="Skoda" Model="105"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Citigo"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Fabia"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Fabia RS"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Fabia Scout"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Favorit"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Felicia"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Karoq"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Kodiaq"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Octavia"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Octavia RS"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Octavia Scout"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Popular"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Praktik"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Rapid"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Roomster"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Roomster Scout"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Superb"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Yeti"/>
+	<Model Category="Автомобили" Make="Skoda" Model="Другая"/>
+	<Model Category="Автомобили" Make="SMA" Model="C32"/>
+	<Model Category="Автомобили" Make="SMA" Model="C51"/>
+	<Model Category="Автомобили" Make="SMA" Model="C52"/>
+	<Model Category="Автомобили" Make="SMA" Model="C61"/>
+	<Model Category="Автомобили" Make="SMA" Model="C81"/>
+	<Model Category="Автомобили" Make="SMA" Model="Другая"/>
+	<Model Category="Автомобили" Make="Smart" Model="Crossblade"/>
+	<Model Category="Автомобили" Make="Smart" Model="Forfour"/>
+	<Model Category="Автомобили" Make="Smart" Model="Fortwo"/>
+	<Model Category="Автомобили" Make="Smart" Model="Roadster"/>
+	<Model Category="Автомобили" Make="Smart" Model="Другая"/>
+	<Model Category="Автомобили" Make="Spyker" Model="C8"/>
+	<Model Category="Автомобили" Make="Spyker" Model="Другая"/>
+	<Model Category="Автомобили" Make="SsangYong" Model="Actyon"/>
+	<Model Category="Автомобили" Make="SsangYong" Model="Actyon Sports"/>
+	<Model Category="Автомобили" Make="SsangYong" Model="Chairman"/>
+	<Model Category="Автомобили" Make="SsangYong" Model="Istana"/>
+	<Model Category="Автомобили" Make="SsangYong" Model="Kallista"/>
+	<Model Category="Автомобили" Make="SsangYong" Model="Korando"/>
+	<Model Category="Автомобили" Make="SsangYong" Model="Korando Family"/>
+	<Model Category="Автомобили" Make="SsangYong" Model="Korando Sports"/>
+	<Model Category="Автомобили" Make="SsangYong" Model="Kyron"/>
+	<Model Category="Автомобили" Make="SsangYong" Model="Musso"/>
+	<Model Category="Автомобили" Make="SsangYong" Model="Rexton"/>
+	<Model Category="Автомобили" Make="SsangYong" Model="Rodius"/>
+	<Model Category="Автомобили" Make="SsangYong" Model="Stavic"/>
+	<Model Category="Автомобили" Make="SsangYong" Model="Tivoli"/>
+	<Model Category="Автомобили" Make="SsangYong" Model="Tivoli XLV"/>
+	<Model Category="Автомобили" Make="SsangYong" Model="Другая"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Alcyone"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Ascent"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Baja"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Bistro"/>
+	<Model Category="Автомобили" Make="Subaru" Model="BRZ"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Dex"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Dias"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Domingo"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Exiga"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Forester"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Impreza"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Justy"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Legacy"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Legacy Lancaster"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Leone"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Libero"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Lucra"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Outback"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Pleo"/>
+	<Model Category="Автомобили" Make="Subaru" Model="R1"/>
+	<Model Category="Автомобили" Make="Subaru" Model="R2"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Sambar"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Stella"/>
+	<Model Category="Автомобили" Make="Subaru" Model="SVX"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Traviq"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Trezia"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Tribeca"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Vivio"/>
+	<Model Category="Автомобили" Make="Subaru" Model="WRX"/>
+	<Model Category="Автомобили" Make="Subaru" Model="WRX STI"/>
+	<Model Category="Автомобили" Make="Subaru" Model="XT"/>
+	<Model Category="Автомобили" Make="Subaru" Model="XV"/>
+	<Model Category="Автомобили" Make="Subaru" Model="Другая"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Aerio"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Alto"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Baleno"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Cappuccino"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Carry"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Cervo"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Chevrolet Cruze"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Cultus Wagon"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Escudo"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Esteem"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Every"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Every Landy"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Forenza"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Grand Escudo"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Grand Vitara"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Hustler"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Ignis"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Jimny"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Kei"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Kizashi"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Liana"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="LJ 80"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="MR Wagon"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Reno"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Samurai"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Sidekick"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Solio"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Spacia"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Splash"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Swift"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="SX4"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Verona"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Vitara"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Wagon R"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="X-90"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="XL7"/>
+	<Model Category="Автомобили" Make="Suzuki" Model="Другая"/>
+	<Model Category="Автомобили" Make="Talbot" Model="Alpine"/>
+	<Model Category="Автомобили" Make="Talbot" Model="Avenger"/>
+	<Model Category="Автомобили" Make="Talbot" Model="Express"/>
+	<Model Category="Автомобили" Make="Talbot" Model="Horizon"/>
+	<Model Category="Автомобили" Make="Talbot" Model="Matra Bagheera"/>
+	<Model Category="Автомобили" Make="Talbot" Model="Minx"/>
+	<Model Category="Автомобили" Make="Talbot" Model="Murena"/>
+	<Model Category="Автомобили" Make="Talbot" Model="Rancho"/>
+	<Model Category="Автомобили" Make="Talbot" Model="Rapier"/>
+	<Model Category="Автомобили" Make="Talbot" Model="Samba"/>
+	<Model Category="Автомобили" Make="Talbot" Model="Simca"/>
+	<Model Category="Автомобили" Make="Talbot" Model="Solara"/>
+	<Model Category="Автомобили" Make="Talbot" Model="Tagora"/>
+	<Model Category="Автомобили" Make="Talbot" Model="Другая"/>
+	<Model Category="Автомобили" Make="Tata" Model="Aria"/>
+	<Model Category="Автомобили" Make="Tata" Model="Estate"/>
+	<Model Category="Автомобили" Make="Tata" Model="Indica"/>
+	<Model Category="Автомобили" Make="Tata" Model="Indigo"/>
+	<Model Category="Автомобили" Make="Tata" Model="Mint"/>
+	<Model Category="Автомобили" Make="Tata" Model="Safari"/>
+	<Model Category="Автомобили" Make="Tata" Model="Sierra"/>
+	<Model Category="Автомобили" Make="Tata" Model="Sumo"/>
+	<Model Category="Автомобили" Make="Tata" Model="Telcoline"/>
+	<Model Category="Автомобили" Make="Tata" Model="Другая"/>
+	<Model Category="Автомобили" Make="Tatra" Model="57"/>
+	<Model Category="Автомобили" Make="Tatra" Model="T603"/>
+	<Model Category="Автомобили" Make="Tatra" Model="T613"/>
+	<Model Category="Автомобили" Make="Tatra" Model="T700"/>
+	<Model Category="Автомобили" Make="Tesla" Model="Model 3"/>
+	<Model Category="Автомобили" Make="Tesla" Model="Model S"/>
+	<Model Category="Автомобили" Make="Tesla" Model="Model X"/>
+	<Model Category="Автомобили" Make="Tesla" Model="Roadster"/>
+	<Model Category="Автомобили" Make="Tesla" Model="Другая"/>
+	<Model Category="Автомобили" Make="Tianma" Model="Century"/>
+	<Model Category="Автомобили" Make="Tianma" Model="Другая"/>
+	<Model Category="Автомобили" Make="Tianye" Model="Admiral"/>
+	<Model Category="Автомобили" Make="Tianye" Model="Другая"/>
+	<Model Category="Автомобили" Make="Toyota" Model="4Runner"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Allex"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Allion"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Alphard"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Altezza"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Aqua"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Aristo"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Aurion"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Auris"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Avalon"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Avensis"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Avensis Verso"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Aygo"/>
+	<Model Category="Автомобили" Make="Toyota" Model="bB"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Belta"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Blade"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Blizzard"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Brevis"/>
+	<Model Category="Автомобили" Make="Toyota" Model="C-HR"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Caldina"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Cami"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Camry"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Camry Solara"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Carina"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Carina E"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Carina ED"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Cavalier"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Celica"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Celsior"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Century"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Chaser"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Classic"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Coms"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Corolla"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Corolla Axio"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Corolla Ceres"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Corolla Fielder"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Corolla Levin"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Corolla Rumion"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Corolla Runx"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Corolla Spacio"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Corolla Verso"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Corona"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Corona EXiV"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Corsa"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Cressida"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Cresta"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Crown"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Crown Majesta"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Curren"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Cynos"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Duet"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Echo"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Estima"/>
+	<Model Category="Автомобили" Make="Toyota" Model="FJ Cruiser"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Fortuner"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Funcargo"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Gaia"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Grand Hiace"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Granvia"/>
+	<Model Category="Автомобили" Make="Toyota" Model="GT86"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Harrier"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Hiace"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Highlander"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Hilux"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Hilux Surf"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Innova"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Ipsum"/>
+	<Model Category="Автомобили" Make="Toyota" Model="iQ"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Isis"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Ist"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Kluger"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Land Cruiser"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Land Cruiser Prado"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Lite Ace"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Mark II"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Mark X"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Mark X ZiO"/>
+	<Model Category="Автомобили" Make="Toyota" Model="MasterAce"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Matrix"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Mega Cruiser"/>
+	<Model Category="Автомобили" Make="Toyota" Model="MR-S"/>
+	<Model Category="Автомобили" Make="Toyota" Model="MR2"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Nadia"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Noah"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Opa"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Origin"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Paseo"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Passo"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Passo Sette"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Picnic"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Pixis Epoch"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Pixis Space"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Platz"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Porte"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Premio"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Previa"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Prius"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Prius Alpha"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Prius V"/>
+	<Model Category="Автомобили" Make="Toyota" Model="ProAce"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Probox"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Progres"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Pronard"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Ractis"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Raum"/>
+	<Model Category="Автомобили" Make="Toyota" Model="RAV4"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Regius"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Rush"/>
+	<Model Category="Автомобили" Make="Toyota" Model="SAI"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Scepter"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Sequoia"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Sera"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Sienna"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Sienta"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Soarer"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Solara"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Soluna"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Spade"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Sparky"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Sprinter"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Sprinter Carib"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Sprinter Marino"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Sprinter Trueno"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Starlet"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Succeed"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Supra"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Tacoma"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Tank"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Tercel"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Town Ace"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Tundra"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Urban Cruiser"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Vanguard"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Vellfire"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Venza"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Verossa"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Verso"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Vios"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Vista"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Vista Ardeo"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Vitz"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Voltz"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Voxy"/>
+	<Model Category="Автомобили" Make="Toyota" Model="WiLL"/>
+	<Model Category="Автомобили" Make="Toyota" Model="WiLL Cypha"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Windom"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Wish"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Yaris"/>
+	<Model Category="Автомобили" Make="Toyota" Model="Другая"/>
+	<Model Category="Автомобили" Make="Trabant" Model="1.1"/>
+	<Model Category="Автомобили" Make="Trabant" Model="P601"/>
+	<Model Category="Автомобили" Make="Trabant" Model="Другая"/>
+	<Model Category="Автомобили" Make="Triumph" Model="Spitfire"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="181"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Amarok"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Arteon"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Atlas"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Beetle"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Bora"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Caddy"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="California"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Caravelle"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Corrado"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Crafter"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="CrossPolo"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Derby"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Eos"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="EuroVan"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Fox"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Golf"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Golf Country"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Golf GTI"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Golf Plus"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Golf R"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Golf R32"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Iltis"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Jetta"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Kaefer"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="LT"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Lupo"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Multivan"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="New Beetle"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Passat"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Passat CC"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Phaeton"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Pointer"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Polo"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Polo GTI"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Routan"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Santana"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Scirocco"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Sharan"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="T-Roc"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Taro"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Teramont"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Tiguan"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Touareg"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Touran"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Transporter"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Type 1"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Type 2"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Up"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Vento"/>
+	<Model Category="Автомобили" Make="Volkswagen" Model="Другая"/>
+	<Model Category="Автомобили" Make="Volvo" Model="140"/>
+	<Model Category="Автомобили" Make="Volvo" Model="164"/>
+	<Model Category="Автомобили" Make="Volvo" Model="240"/>
+	<Model Category="Автомобили" Make="Volvo" Model="260"/>
+	<Model Category="Автомобили" Make="Volvo" Model="340"/>
+	<Model Category="Автомобили" Make="Volvo" Model="360"/>
+	<Model Category="Автомобили" Make="Volvo" Model="440"/>
+	<Model Category="Автомобили" Make="Volvo" Model="460"/>
+	<Model Category="Автомобили" Make="Volvo" Model="480"/>
+	<Model Category="Автомобили" Make="Volvo" Model="66"/>
+	<Model Category="Автомобили" Make="Volvo" Model="740"/>
+	<Model Category="Автомобили" Make="Volvo" Model="760"/>
+	<Model Category="Автомобили" Make="Volvo" Model="780"/>
+	<Model Category="Автомобили" Make="Volvo" Model="850"/>
+	<Model Category="Автомобили" Make="Volvo" Model="940"/>
+	<Model Category="Автомобили" Make="Volvo" Model="960"/>
+	<Model Category="Автомобили" Make="Volvo" Model="C30"/>
+	<Model Category="Автомобили" Make="Volvo" Model="C70"/>
+	<Model Category="Автомобили" Make="Volvo" Model="Laplander"/>
+	<Model Category="Автомобили" Make="Volvo" Model="S40"/>
+	<Model Category="Автомобили" Make="Volvo" Model="S60"/>
+	<Model Category="Автомобили" Make="Volvo" Model="S60 Cross Country"/>
+	<Model Category="Автомобили" Make="Volvo" Model="S70"/>
+	<Model Category="Автомобили" Make="Volvo" Model="S80"/>
+	<Model Category="Автомобили" Make="Volvo" Model="S90"/>
+	<Model Category="Автомобили" Make="Volvo" Model="V40"/>
+	<Model Category="Автомобили" Make="Volvo" Model="V40 Cross Country"/>
+	<Model Category="Автомобили" Make="Volvo" Model="V50"/>
+	<Model Category="Автомобили" Make="Volvo" Model="V60"/>
+	<Model Category="Автомобили" Make="Volvo" Model="V60 Cross Country"/>
+	<Model Category="Автомобили" Make="Volvo" Model="V70"/>
+	<Model Category="Автомобили" Make="Volvo" Model="V90"/>
+	<Model Category="Автомобили" Make="Volvo" Model="V90 Cross Country"/>
+	<Model Category="Автомобили" Make="Volvo" Model="XC40"/>
+	<Model Category="Автомобили" Make="Volvo" Model="XC60"/>
+	<Model Category="Автомобили" Make="Volvo" Model="XC70"/>
+	<Model Category="Автомобили" Make="Volvo" Model="XC90"/>
+	<Model Category="Автомобили" Make="Volvo" Model="Другая"/>
+	<Model Category="Автомобили" Make="Vortex" Model="Corda"/>
+	<Model Category="Автомобили" Make="Vortex" Model="Estina"/>
+	<Model Category="Автомобили" Make="Vortex" Model="Tingo"/>
+	<Model Category="Автомобили" Make="Vortex" Model="Другая"/>
+	<Model Category="Автомобили" Make="Wartburg" Model="1.3"/>
+	<Model Category="Автомобили" Make="Wartburg" Model="353"/>
+	<Model Category="Автомобили" Make="Wartburg" Model="Другая"/>
+	<Model Category="Автомобили" Make="Westfield" Model="Megabusa"/>
+	<Model Category="Автомобили" Make="Westfield" Model="SEi &amp; Sport"/>
+	<Model Category="Автомобили" Make="Westfield" Model="SEiGHT"/>
+	<Model Category="Автомобили" Make="Westfield" Model="Другая"/>
+	<Model Category="Автомобили" Make="Wiesmann" Model="GT"/>
+	<Model Category="Автомобили" Make="Wiesmann" Model="Roadster"/>
+	<Model Category="Автомобили" Make="Wiesmann" Model="Другая"/>
+	<Model Category="Автомобили" Make="Willys" Model="MB"/>
+	<Model Category="Автомобили" Make="Xin Kai" Model="Pickup X3"/>
+	<Model Category="Автомобили" Make="Xin Kai" Model="SR-V X3"/>
+	<Model Category="Автомобили" Make="Xin Kai" Model="SUV X3"/>
+	<Model Category="Автомобили" Make="Xin Kai" Model="Другая"/>
+	<Model Category="Автомобили" Make="Zibar" Model="MK2"/>
+	<Model Category="Автомобили" Make="Zibar" Model="Другая"/>
+	<Model Category="Автомобили" Make="ZOTYE" Model="Coupa"/>
+	<Model Category="Автомобили" Make="ZOTYE" Model="SR9"/>
+	<Model Category="Автомобили" Make="ZOTYE" Model="T600"/>
+	<Model Category="Автомобили" Make="ZOTYE" Model="X7"/>
+	<Model Category="Автомобили" Make="ZOTYE" Model="Z300"/>
+	<Model Category="Автомобили" Make="Zuk" Model="А06"/>
+	<Model Category="Автомобили" Make="Zuk" Model="А07"/>
+	<Model Category="Автомобили" Make="ZX" Model="Admiral"/>
+	<Model Category="Автомобили" Make="ZX" Model="GrandTiger"/>
+	<Model Category="Автомобили" Make="ZX" Model="Landmark"/>
+	<Model Category="Автомобили" Make="ZX" Model="Другая"/>
+	<Model Category="Автомобили" Make="Богдан" Model="2110"/>
+	<Model Category="Автомобили" Make="Богдан" Model="2111"/>
+	<Model Category="Автомобили" Make="Богдан" Model="2310"/>
+	<Model Category="Автомобили" Make="Богдан" Model="2312"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="1111 Ока"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2101"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2102"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2103"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2104"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2105"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2106"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2107"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2108"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2109"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="21099"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2110"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2111"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2112"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2113 Samara"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2114 Samara"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2115 Samara"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2120 Надежда"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2123"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2129"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2328"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="2329"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="4x4 (Нива)"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="El Lada"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="Granta"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="Kalina"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="Largus"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="Largus Cross"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="Priora"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="Revolution"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="Vesta"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="Vesta Cross"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="XRAY"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="XRAY Cross"/>
+	<Model Category="Автомобили" Make="ВАЗ (LADA)" Model="Другая"/>
+	<Model Category="Автомобили" Make="ВИС" Model="1705"/>
+	<Model Category="Автомобили" Make="ВИС" Model="1706"/>
+	<Model Category="Автомобили" Make="ВИС" Model="2345"/>
+	<Model Category="Автомобили" Make="ВИС" Model="2346"/>
+	<Model Category="Автомобили" Make="ВИС" Model="2347"/>
+	<Model Category="Автомобили" Make="ВИС" Model="2349"/>
+	<Model Category="Автомобили" Make="ВИС" Model="Другая"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="12 ЗИМ"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="13 Чайка"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="14 Чайка"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="21 Волга"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="22 Волга"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="2330 Тигр"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="24 Волга"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="3102 Волга"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="310221 Волга"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="31029 Волга"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="3110 Волга"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="31105 Волга"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="3111 Волга"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="64"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="67"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="69"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="M-1"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="M1"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="Volga Siber"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="А"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="ГАЗель"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="ГАЗель 2705"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="ГАЗель 2747"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="ГАЗель 3221"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="ГАЗель 3302"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="ГАЗель 33023"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="ГАЗель Next"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="М-20 Победа"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="М-72"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="Соболь"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="Соболь 2217"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="Соболь 2310"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="Соболь 2752"/>
+	<Model Category="Автомобили" Make="ГАЗ" Model="Другая"/>
+	<Model Category="Автомобили" Make="ЕрАЗ" Model="762"/>
+	<Model Category="Автомобили" Make="ЗАЗ" Model="1102 Таврия"/>
+	<Model Category="Автомобили" Make="ЗАЗ" Model="1103 Славута"/>
+	<Model Category="Автомобили" Make="ЗАЗ" Model="1105 Дана"/>
+	<Model Category="Автомобили" Make="ЗАЗ" Model="11055"/>
+	<Model Category="Автомобили" Make="ЗАЗ" Model="965 Запорожец"/>
+	<Model Category="Автомобили" Make="ЗАЗ" Model="966 Запорожец"/>
+	<Model Category="Автомобили" Make="ЗАЗ" Model="968 Запорожец"/>
+	<Model Category="Автомобили" Make="ЗАЗ" Model="Chance"/>
+	<Model Category="Автомобили" Make="ЗАЗ" Model="Forza"/>
+	<Model Category="Автомобили" Make="ЗАЗ" Model="Sens"/>
+	<Model Category="Автомобили" Make="ЗАЗ" Model="Vida"/>
+	<Model Category="Автомобили" Make="ЗАЗ" Model="Другая"/>
+	<Model Category="Автомобили" Make="ЗИЛ" Model="110"/>
+	<Model Category="Автомобили" Make="ЗИЛ" Model="111"/>
+	<Model Category="Автомобили" Make="ЗИЛ" Model="114"/>
+	<Model Category="Автомобили" Make="ЗИЛ" Model="117"/>
+	<Model Category="Автомобили" Make="ЗИЛ" Model="4104"/>
+	<Model Category="Автомобили" Make="ЗИЛ" Model="4105"/>
+	<Model Category="Автомобили" Make="ЗИЛ" Model="Другая"/>
+	<Model Category="Автомобили" Make="ИЖ" Model="2125"/>
+	<Model Category="Автомобили" Make="ИЖ" Model="2126"/>
+	<Model Category="Автомобили" Make="ИЖ" Model="21261"/>
+	<Model Category="Автомобили" Make="ИЖ" Model="2715"/>
+	<Model Category="Автомобили" Make="ИЖ" Model="2717"/>
+	<Model Category="Автомобили" Make="ИЖ" Model="Другая"/>
+	<Model Category="Автомобили" Make="ЛуАЗ" Model="1302"/>
+	<Model Category="Автомобили" Make="ЛуАЗ" Model="967"/>
+	<Model Category="Автомобили" Make="ЛуАЗ" Model="969"/>
+	<Model Category="Автомобили" Make="ЛуАЗ" Model="Другая"/>
+	<Model Category="Автомобили" Make="Москвич" Model="2136"/>
+	<Model Category="Автомобили" Make="Москвич" Model="2137"/>
+	<Model Category="Автомобили" Make="Москвич" Model="2138"/>
+	<Model Category="Автомобили" Make="Москвич" Model="2140"/>
+	<Model Category="Автомобили" Make="Москвич" Model="2141"/>
+	<Model Category="Автомобили" Make="Москвич" Model="2335"/>
+	<Model Category="Автомобили" Make="Москвич" Model="2733"/>
+	<Model Category="Автомобили" Make="Москвич" Model="2734"/>
+	<Model Category="Автомобили" Make="Москвич" Model="400"/>
+	<Model Category="Автомобили" Make="Москвич" Model="401"/>
+	<Model Category="Автомобили" Make="Москвич" Model="402"/>
+	<Model Category="Автомобили" Make="Москвич" Model="403"/>
+	<Model Category="Автомобили" Make="Москвич" Model="407"/>
+	<Model Category="Автомобили" Make="Москвич" Model="408"/>
+	<Model Category="Автомобили" Make="Москвич" Model="410"/>
+	<Model Category="Автомобили" Make="Москвич" Model="411"/>
+	<Model Category="Автомобили" Make="Москвич" Model="412"/>
+	<Model Category="Автомобили" Make="Москвич" Model="420"/>
+	<Model Category="Автомобили" Make="Москвич" Model="422"/>
+	<Model Category="Автомобили" Make="Москвич" Model="423"/>
+	<Model Category="Автомобили" Make="Москвич" Model="424"/>
+	<Model Category="Автомобили" Make="Москвич" Model="426"/>
+	<Model Category="Автомобили" Make="Москвич" Model="427"/>
+	<Model Category="Автомобили" Make="Москвич" Model="430"/>
+	<Model Category="Автомобили" Make="Москвич" Model="432"/>
+	<Model Category="Автомобили" Make="Москвич" Model="433"/>
+	<Model Category="Автомобили" Make="Москвич" Model="434"/>
+	<Model Category="Автомобили" Make="Москвич" Model="Дуэт"/>
+	<Model Category="Автомобили" Make="Москвич" Model="Иван Калита"/>
+	<Model Category="Автомобили" Make="Москвич" Model="Князь Владимир"/>
+	<Model Category="Автомобили" Make="Москвич" Model="Святогор"/>
+	<Model Category="Автомобили" Make="Москвич" Model="Юрий Долгорукий"/>
+	<Model Category="Автомобили" Make="Москвич" Model="Другая"/>
+	<Model Category="Автомобили" Make="РАФ" Model="2203"/>
+	<Model Category="Автомобили" Make="РАФ" Model="977"/>
+	<Model Category="Автомобили" Make="РАФ" Model="Другая"/>
+	<Model Category="Автомобили" Make="СМЗ" Model="С-3А"/>
+	<Model Category="Автомобили" Make="СМЗ" Model="С-3Д"/>
+	<Model Category="Автомобили" Make="ТагАЗ" Model="Aquila"/>
+	<Model Category="Автомобили" Make="ТагАЗ" Model="C10"/>
+	<Model Category="Автомобили" Make="ТагАЗ" Model="C190"/>
+	<Model Category="Автомобили" Make="ТагАЗ" Model="Hardy"/>
+	<Model Category="Автомобили" Make="ТагАЗ" Model="Hyundai Accent"/>
+	<Model Category="Автомобили" Make="ТагАЗ" Model="Hyundai Santa Fe Classic"/>
+	<Model Category="Автомобили" Make="ТагАЗ" Model="Hyundai Sonata"/>
+	<Model Category="Автомобили" Make="ТагАЗ" Model="Road Partner"/>
+	<Model Category="Автомобили" Make="ТагАЗ" Model="Tager"/>
+	<Model Category="Автомобили" Make="ТагАЗ" Model="Vega"/>
+	<Model Category="Автомобили" Make="ТагАЗ" Model="Vortex Corda"/>
+	<Model Category="Автомобили" Make="ТагАЗ" Model="Vortex Estina"/>
+	<Model Category="Автомобили" Make="ТагАЗ" Model="Vortex Tingo"/>
+	<Model Category="Автомобили" Make="ТагАЗ" Model="С30"/>
+	<Model Category="Автомобили" Make="ТагАЗ" Model="Другая"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="2206"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="2360"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="3151"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="31512"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="31514"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="31519"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="3153"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="3159"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="3160"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="3303"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="3741"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="3909"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="39094"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="39095"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="3962"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="452 Буханка"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="469"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="Hunter"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="Patriot"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="Pickup"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="Карго"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="Профи"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="Симбир"/>
+	<Model Category="Автомобили" Make="УАЗ" Model="Другая"/>
+</Models>
