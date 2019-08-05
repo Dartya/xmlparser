@@ -77,15 +77,16 @@ public class Main {
             }
         }
         //вариант 1:
-        //формируем json из обыкновенного листа, в который последовательно складываются объекты
+        System.out.println("\nформируем json из обыкновенного листа, в который последовательно складываются объекты");
         String jsonOutputObject = new Gson().toJson(modelsList);
         System.out.println(jsonOutputObject);
 
         //вариант 2:
-        //формируем json из мапы с ключом Ford
+        System.out.println("\nформируем json из мапы с ключом Ford");
         String fordJson = new Gson().toJson(modelsMap.get("Ford"));
         System.out.println(fordJson);
 
+        //вариант 3
         System.out.println("\nформируем json из мапы, модули группируются по брендам");
         String mapJson = new Gson().toJson(modelsMap);
         System.out.println(mapJson);
